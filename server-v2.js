@@ -1,3 +1,4 @@
+const fs = require("node:fs");
 const path = require("node:path");
 const express = require("express");
 const qrcode = require("qrcode-terminal");
@@ -14,14 +15,41 @@ let client = null;
 let qrCode = null;
 let isReady = false;
 let isInitializing = false;
+let isResetting = false;
 let botNumber = null;
 
 app.use(express.json({ limit: "20kb" }));
 app.use(express.static(path.join(__dirname, "public")));
 
+function latestCachedWebVersion() {
+  const cacheDir = path.join(__dirname, ".wwebjs_cache");
+  try {
+    const cached = fs.readdirSync(cacheDir)
+      .filter((name) => /^\d+(?:\.\d+)+\.html$/.test(name))
+      .map((name) => ({
+        name,
+        modified: fs.statSync(path.join(cacheDir, name)).mtimeMs
+      }))
+      .sort((a, b) => b.modified - a.modified)[0];
+    return cached ? { version: cached.name.replace(/\.html$/, ""), cacheDir } : null;
+  } catch {
+    return null;
+  }
+}
+
 function createClient() {
+  const cachedWeb = latestCachedWebVersion();
+  if (cachedWeb) console.log(`[WA] Menggunakan cache WhatsApp Web ${cachedWeb.version}`);
   const wa = new Client({
-    authStrategy: new LocalAuth({ clientId: config.whatsapp.clientId }),
+    authStrategy: new LocalAuth({ clientId: config.whatsapp.clientId, rmMaxRetries: 10 }),
+    authTimeoutMs: 120000,
+    userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+    ...(cachedWeb
+      ? {
+          webVersion: cachedWeb.version,
+          webVersionCache: { type: "local", path: cachedWeb.cacheDir, strict: true }
+        }
+      : { webVersionCache: { type: "none" } }),
     puppeteer: {
       headless: config.whatsapp.headless,
       args: ["--no-sandbox", "--disable-setuid-sandbox"]
@@ -51,7 +79,7 @@ function createClient() {
     isReady = false;
     isInitializing = false;
     qrCode = null;
-    client = null;
+    if (!isResetting) client = null;
     console.warn("[WA] Terputus:", reason);
   });
   wa.on("message", async (incoming) => {
@@ -70,12 +98,16 @@ async function startBot() {
   isInitializing = true;
   qrCode = null;
   client = createClient();
+  const initializingClient = client;
   try {
-    await client.initialize();
+    await initializingClient.initialize();
   } catch (error) {
-    client = null;
+    if (client === initializingClient) client = null;
     isInitializing = false;
     console.error("[WA] Inisialisasi gagal:", error.message);
+    await initializingClient.destroy().catch((destroyError) => {
+      console.warn("[WA] Cleanup setelah inisialisasi gagal:", destroyError.message);
+    });
     throw error;
   }
 }
@@ -90,15 +122,42 @@ async function stopBot() {
   if (current) await current.destroy().catch((error) => console.warn("[WA] Destroy:", error.message));
 }
 
+async function resetBotSession() {
+  isResetting = true;
+  const current = client;
+  client = null;
+  isReady = false;
+  isInitializing = false;
+  qrCode = null;
+  botNumber = null;
+
+  try {
+    if (current) {
+      await current.destroy().catch((error) => console.warn("[WA] Destroy saat reset:", error.message));
+    }
+
+    const authRoot = path.resolve(__dirname, ".wwebjs_auth");
+    const sessionDir = path.resolve(authRoot, `session-${config.whatsapp.clientId}`);
+    if (!sessionDir.startsWith(`${authRoot}${path.sep}`)) {
+      throw new Error("Path sesi WhatsApp tidak valid.");
+    }
+
+    await fs.promises.rm(sessionDir, {
+      recursive: true,
+      force: true,
+      maxRetries: 10,
+      retryDelay: 250
+    });
+  } finally {
+    isResetting = false;
+  }
+}
+
 app.get("/api/bot/status", (_req, res) => res.json({ isReady, isInitializing, hasQRCode: Boolean(qrCode), botNumber }));
 app.get("/api/bot/qr", (_req, res) => res.json({ qr: qrCode }));
-app.post("/api/bot/start", async (_req, res) => {
-  try {
-    await startBot();
-    res.json({ success: true });
-  } catch (error) {
-    res.status(500).json({ success: false, error: error.message });
-  }
+app.post("/api/bot/start", (_req, res) => {
+  startBot().catch(() => {});
+  res.status(202).json({ success: true, message: "Inisialisasi WhatsApp dimulai." });
 });
 app.post("/api/bot/stop", async (_req, res) => {
   await stopBot();
@@ -106,8 +165,7 @@ app.post("/api/bot/stop", async (_req, res) => {
 });
 app.post("/api/bot/reset", async (_req, res) => {
   try {
-    if (client) await client.logout().catch(() => {});
-    await stopBot();
+    await resetBotSession();
     res.json({ success: true, message: "Sesi WhatsApp dikeluarkan. Mulai bot untuk memindai QR baru." });
   } catch (error) {
     res.status(500).json({ success: false, error: error.message });
