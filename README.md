@@ -55,7 +55,7 @@ Jangan mengunggah `.env` ke repository. File tersebut sudah masuk `.gitignore` d
 4. Tambahkan environment di atas.
 5. Klik **Deploy**.
 
-`app.js` adalah entry point Express untuk Vercel. Folder `public/` disajikan sebagai aset statis CDN. Dependency WhatsApp dibuat opsional dan dikeluarkan dari instalasi Vercel agar Chromium tidak masuk ke serverless function.
+Folder `api/` berisi entry point Vercel Functions yang meneruskan request ke aplikasi Express di `app.js`. Folder `public/` disajikan sebagai aset statis CDN. Dependency WhatsApp dibuat opsional dan dikeluarkan dari instalasi Vercel agar Chromium tidak masuk ke serverless function.
 
 Gateway WhatsApp tetap dijalankan dari `server-v2.js` pada komputer lokal karena memerlukan sesi browser yang hidup terus. Website Vercel dan gateway lokal tetap memakai `data/products.json` yang sama.
 

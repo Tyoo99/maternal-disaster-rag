@@ -1,7 +1,13 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
   "installCommand": "npm install --omit=optional --omit=dev --ignore-scripts",
   "regions": ["sin1"],
+  "functions": {
+    "api/**/*.mjs": {
+      "maxDuration": 30
+    }
+  },
   "headers": [
     {
       "source": "/(.*)",
