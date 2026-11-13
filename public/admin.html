@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Console WhatsApp — Maternal Disaster RAG</title>
+  <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+  <main class="admin-shell">
+    <header class="admin-header">
+      <div><p class="eyebrow">MATERNAL DISASTER / LOCAL GATEWAY</p><h1>WhatsApp RAG Console</h1><p>Kelola bot lokal dan uji sumber katalog yang digunakan website.</p></div>
+      <div class="header-side"><div class="status"><span id="statusDot"></span><strong id="statusText">Memeriksa…</strong></div><a href="/">← Website katalog</a></div>
+    </header>
+
+    <section class="panel controls">
+      <div><h2>Koneksi WhatsApp</h2><p>Gunakan nomor gateway dan pindai kode melalui menu Perangkat Tertaut.</p></div>
+      <div class="actions"><button id="startBtn">Mulai Bot</button><button id="stopBtn" class="danger hidden">Hentikan Bot</button><button id="resetBtn" class="ghost">Reset Sesi WA</button></div>
+    </section>
+    <section id="qrSection" class="panel hidden"><h2>Pindai QR Code</h2><div id="qrcode"><p>Menunggu QR dari WhatsApp…</p></div></section>
+    <section id="readySection" class="ready-card hidden"><span>✓</span><div><strong>Bot WhatsApp siap digunakan</strong><p>Nomor terhubung: <b id="botNumberText">-</b></p></div></section>
+
+    <section class="grid">
+      <article class="panel"><div class="section-title"><div><p class="eyebrow">GROQ CLOUD</p><h2>Monitoring AI</h2></div><button id="refreshQuotaBtn" class="ghost small">Cek Kuota</button></div><dl><div><dt>Model</dt><dd id="groqModelName">-</dd></div><div><dt>Sisa permintaan</dt><dd id="groqReqRemaining">-</dd></div><div><dt>Sisa token</dt><dd id="groqTokenRemaining">-</dd></div></dl><small id="groqLastChecked">Belum ada pemakaian API</small></article>
+      <article class="panel"><p class="eyebrow">UJI TANPA WHATSAPP</p><h2>Chat Playground</h2><div id="messages" class="messages"><p class="bot">Halo! Coba tanyakan “ada jaket di bawah 700 ribu?”</p></div><form id="chatForm"><input id="chatInput" maxlength="500" placeholder="Tulis pesan…" autocomplete="off"><button>Kirim</button></form></article>
+    </section>
+
+    <section class="panel"><div class="section-title"><div><p class="eyebrow">RETRIEVAL SOURCE</p><h2>Preview Katalog</h2></div><strong id="catalogCount">-</strong></div><div class="table-wrap"><table><thead><tr><th>Produk</th><th>Kategori</th><th>Harga</th><th>Rating</th></tr></thead><tbody id="productsBody"><tr><td colspan="4">Memuat…</td></tr></tbody></table></div></section>
+    <section class="panel"><h2>FAQ Tanpa AI</h2><div id="knowledgeList" class="tags"></div></section>
+  </main>
+  <script src="admin.js"></script>
+</body>
+</html>

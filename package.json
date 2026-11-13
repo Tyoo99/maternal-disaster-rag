@@ -1,0 +1,32 @@
+{
+  "name": "chatbot-rag",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Katalog Maternal Disaster dengan chatbot RAG web dan gateway WhatsApp",
+  "main": "server-v2.js",
+  "scripts": {
+    "start": "node server-v2.js",
+    "dev": "nodemon server-v2.js",
+    "test": "node --test",
+    "import:shopee": "node scripts/import-shopee.js data/shopee-raw.csv"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "groq-sdk": "^0.37.0"
+  },
+  "optionalDependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "1.34.8"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "overrides": {
+    "puppeteer": "24.38.0",
+    "minimatch": "11.0.1"
+  }
+}

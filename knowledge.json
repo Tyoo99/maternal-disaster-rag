@@ -1,0 +1,21 @@
+{
+  "keywords": {
+    "jam buka": "jam operasional",
+    "jam operasional": "jam operasional",
+    "lokasi": "lokasi",
+    "alamat": "lokasi",
+    "cara pesan": "cara pesan",
+    "cara order": "cara pesan",
+    "order": "cara pesan",
+    "sumber data": "sumber data",
+    "link lapak": "lapak shopee",
+    "lapak shopee": "lapak shopee"
+  },
+  "responses": {
+    "jam operasional": "Berdasarkan profil lapak Shopee, waktu operasional Maternal Disaster Official Shop adalah Senin–Jumat pukul 10.00–17.00 dan Sabtu–Minggu pukul 12.00–17.00 WIB.",
+    "lokasi": "Maternal Disaster Official Shop tercantum berlokasi di Kota Bandung. Untuk alamat dan informasi terbaru, silakan periksa langsung profil lapak Shopee.",
+    "cara pesan": "Pilih produk dari katalog, lalu buka tombol Lihat di Shopee untuk memeriksa variasi, stok, ongkir, dan menyelesaikan transaksi di halaman produk resmi.",
+    "sumber data": "Chatbot menggunakan 290 produk dari file hasil scraping lapak Maternal Disaster Official Shop. Nama, kategori, harga, rating, highlight, gambar, dan tautan produk dinormalisasi menjadi satu katalog untuk website dan WhatsApp.",
+    "lapak shopee": "Lapak sumber: Maternal Disaster Official Shop — https://shopee.co.id/maternaldisasterofficial"
+  }
+}

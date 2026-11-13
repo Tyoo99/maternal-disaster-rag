@@ -1,0 +1,3786 @@
+{
+  "store": {
+    "name": "Maternal Disaster Official Shop",
+    "shortName": "Maternal Disaster",
+    "marketplace": "Shopee Indonesia",
+    "shopUrl": "https://shopee.co.id/maternaldisasterofficial",
+    "shopId": "66992496",
+    "location": "Kota Bandung",
+    "description": "Katalog produk Maternal Disaster berdasarkan hasil scraping lapak resmi di Shopee.",
+    "operationalHours": "Senin–Jumat 10.00–17.00; Sabtu–Minggu 12.00–17.00 WIB",
+    "sourceFile": "shopee-raw.csv",
+    "importedAt": "2026-11-13T15:39:41.896Z",
+    "productCount": 290
+  },
+  "products": [
+    {
+      "id": "53471523732",
+      "name": "Maternal Disaster - Headwear - Jabbor",
+      "category": "Headwear",
+      "price": 169000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258w-mvepjssd3e9z42",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Headwear-Jabbor-i.66992496.53471523732",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "51871072798",
+      "name": "Maternal Disaster - Acc - Flair",
+      "category": "Accessories",
+      "price": 129000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825aq-mv1kyyhqe8eh1e",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Flair-i.66992496.51871072798",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "55871317132",
+      "name": "Maternal Disaster - Acc - Skelebiner Br",
+      "category": "Accessories",
+      "price": 99000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82581-mv8sgtgbpb7n6b",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Skelebiner-Br-i.66992496.55871317132",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "48871117029",
+      "name": "Maternal Disaster - Acc - Mixains 03",
+      "category": "Accessories",
+      "price": 139000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ai-mv1lge3z5xj9df",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Mixains-03-i.66992496.48871117029",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "47971386031",
+      "name": "Maternal Disaster - Headwear - Strugo",
+      "category": "Headwear",
+      "price": 179000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ak-mv8rzsku9kwa9e",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Headwear-Strugo-i.66992496.47971386031",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "42786712855",
+      "name": "Maternal Disaster - Tshirt - Pursuite",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825b5-mvepkna4t1c913",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Pursuite-i.66992496.42786712855",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "43336427967",
+      "name": "Maternal Disaster - Tshirt - Ethnal",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825az-muztd60kazup04",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Ethnal-i.66992496.43336427967",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "56971033868",
+      "name": "Maternal Disaster - Buttonups - Atheno",
+      "category": "Button-Up",
+      "price": 279000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ba-mv1m94xs6ps6ec",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Atheno-i.66992496.56971033868",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "56521271620",
+      "name": "Maternal Disaster - Tshirt - Rabothe",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258v-mv8rrpkv7ll46c",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Rabothe-i.66992496.56521271620",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "57471032140",
+      "name": "Maternal Disaster - Tshirt - Kreatoal",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825az-mv1izsr8jy813b",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Kreatoal-i.66992496.57471032140",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "49471120449",
+      "name": "Maternal Disaster - Underwear - Uwr 165",
+      "category": "Underwear",
+      "price": 99000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ax-mv1nmbybh0jmb3",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Underwear-Uwr-165-i.66992496.49471120449",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "50921469229",
+      "name": "Maternal Disaster - Tshirt - Rickles",
+      "category": "T-Shirt",
+      "price": 245190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258f-mveph6a1mzuv34",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Rickles-i.66992496.50921469229",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "43686712836",
+      "name": "Maternal Disaster - Tshirt - Frugivo",
+      "category": "T-Shirt",
+      "price": 276390,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82580-mvepkvf7fitg28",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Frugivo-i.66992496.43686712836",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "54865509586",
+      "name": "Maternal Disaster - Acc - Pits",
+      "category": "Accessories",
+      "price": 79000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825am-mrjragxbu49025",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Pits-i.66992496.54865509586",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Aman dan handal!",
+        "Engraving unik"
+      ]
+    },
+    {
+      "id": "56321267039",
+      "name": "Maternal Disaster - Headwear - Liquatre",
+      "category": "Headwear",
+      "price": 169000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258e-mv8rz96hh43t95",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Headwear-Liquatre-i.66992496.56321267039",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "41586717867",
+      "name": "Maternal Disaster - Tshirt - Vrefor",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ac-mvepkf3cx6o44f",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Vrefor-i.66992496.41586717867",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "45815529636",
+      "name": "Maternal Disaster - Acc - Capo Gm",
+      "category": "Accessories",
+      "price": 59000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258e-mrjr93jlo6is5c",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Capo-Gm-i.66992496.45815529636",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang unik!",
+        "Gaya yang keren!"
+      ]
+    },
+    {
+      "id": "45671126154",
+      "name": "Maternal Disaster - Headwear - Topse",
+      "category": "Headwear",
+      "price": 169000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825as-mv1jdbl8yivec8",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Headwear-Topse-i.66992496.45671126154",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "47471066663",
+      "name": "Maternal Disaster - Tshirt - Qripal",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258b-muzt74csdmo15a",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Qripal-i.66992496.47471066663",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "47971118207",
+      "name": "Maternal Disaster - Acc - Unrest Sp",
+      "category": "Accessories",
+      "price": 49000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259y-mv1omcfmiosn17",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Unrest-Sp-i.66992496.47971118207",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "46121365857",
+      "name": "Maternal Disaster - Tshirt - Horace",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825am-mv8rqm9zn08z25",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Horace-i.66992496.46121365857",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "52371067560",
+      "name": "Maternal Disaster - Tshirt - Bublat",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825a0-mv1j24joia6bad",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Bublat-i.66992496.52371067560",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "49321316964",
+      "name": "Maternal Disaster - Tshirt - Decoral",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259o-mv8rs47o5wjob9",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Decoral-i.66992496.49321316964",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "45821365967",
+      "name": "Maternal Disaster - Acc - Skelebiner Bg",
+      "category": "Accessories",
+      "price": 99000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259q-mv8sgkyczr4a03",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Skelebiner-Bg-i.66992496.45821365967",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "56821271545",
+      "name": "Maternal Disaster - Tshirt - Cagenals",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82592-mv8l00pujvglc4",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Cagenals-i.66992496.56821271545",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "44086458464",
+      "name": "Maternal Disaster - Tshirt - Zoxar",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82585-muzuikyjj18qde",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Zoxar-i.66992496.44086458464",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "45671126048",
+      "name": "Maternal Disaster - Tshirt - Gypsal",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82592-mv1j19nuswzu3a",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Gypsal-i.66992496.45671126048",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "57617741434",
+      "name": "Maternal Disaster - Acc - Rought",
+      "category": "Accessories",
+      "price": 199000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825am-mt0nwfc066tib0",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Rought-i.66992496.57617741434",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Tinggi 12 cm",
+        "Tahan bocor"
+      ]
+    },
+    {
+      "id": "48921063127",
+      "name": "Maternal Disaster - Sweatshirt - Hanke",
+      "category": "Sweatshirt",
+      "price": 439000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258d-mv1obnvcag3lf8",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Hanke-i.66992496.48921063127",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "6568368409",
+      "name": "Maternal Disaster - Acc - Tyrant",
+      "category": "Accessories",
+      "price": 49000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/2ae9db1e4080a188924072e4998f8deb",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Tyrant-i.66992496.6568368409",
+      "rating": 4.8,
+      "badge": "",
+      "highlights": []
+    },
+    {
+      "id": "46271405427",
+      "name": "Maternal Disaster - Buttonups - Arganta",
+      "category": "Button-Up",
+      "price": 229000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259r-mv8wn0k7tla923",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Arganta-i.66992496.46271405427",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "57221271643",
+      "name": "Maternal Disaster - Tshirt - Thenofts",
+      "category": "T-Shirt",
+      "price": 276390,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825aj-mv8rsbp9aq699c",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Thenofts-i.66992496.57221271643",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "53671016692",
+      "name": "Maternal Disaster - Tshirt - Intalyp",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259z-muztkxx931mq11",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Intalyp-i.66992496.53671016692",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "56921458115",
+      "name": "Maternal Disaster - Pants - Mdj 23",
+      "category": "Pants",
+      "price": 449000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258u-mvepj2mlup6ve3",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Mdj-23-i.66992496.56921458115",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "55921271676",
+      "name": "Maternal Disaster - Tshirt - Nogard",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825bb-mv8rrhmy57nsff",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Nogard-i.66992496.55921271676",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "40936594457",
+      "name": "Maternal Disaster - Headwear - Dymnal",
+      "category": "Headwear",
+      "price": 179000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82598-mv8rzl0sac5j4b",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Headwear-Dymnal-i.66992496.40936594457",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "40836468489",
+      "name": "Maternal Disaster - Acc - Wiero Red",
+      "category": "Accessories",
+      "price": 199000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8257z-mv1om7gxs7whba",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Wiero-Red-i.66992496.40836468489",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "26346178618",
+      "name": "Maternal Disaster - Tshirt - Scynala",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82597-mv1j0g4vclqbdd",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Scynala-i.66992496.26346178618",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "45121543724",
+      "name": "Maternal Disaster - Pants - Normac",
+      "category": "Pants",
+      "price": 419000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825b7-mvepii132lfq62",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Normac-i.66992496.45121543724",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "53321272507",
+      "name": "Maternal Disaster - Bags - Bardi",
+      "category": "Bags",
+      "price": 529000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258y-mv8uqgv66u4q6f",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Bardi-i.66992496.53321272507",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "42586483995",
+      "name": "Maternal Disaster - Acc - Bp 33",
+      "category": "Accessories",
+      "price": 79000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ap-mv1l11ua32862f",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Bp-33-i.66992496.42586483995",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "51771063555",
+      "name": "Maternal Disaster - Tshirt - Monstreo",
+      "category": "T-Shirt",
+      "price": 245190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259p-mv1j2rf1kgzr10",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Monstreo-i.66992496.51771063555",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "52871338408",
+      "name": "Maternal Disaster - Headwear - Vather",
+      "category": "Headwear",
+      "price": 169000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259p-mv8rzd6o969u42",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Headwear-Vather-i.66992496.52871338408",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "54365538197",
+      "name": "Maternal Disaster - Headwear - Kolyuc",
+      "category": "Headwear",
+      "price": 179000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259p-mrjyian6n18he5",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Headwear-Kolyuc-i.66992496.54365538197",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Bebas repot!",
+        "Gaya maksimal!"
+      ]
+    },
+    {
+      "id": "49571098479",
+      "name": "Maternal Disaster - Tshirt - Staigla",
+      "category": "T-Shirt",
+      "price": 276390,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258p-mv1j1oq7semccc",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Staigla-i.66992496.49571098479",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "15789024321",
+      "name": "Maternal Disaster - Acc - Blc Xs Max",
+      "category": "Accessories",
+      "price": 69000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/dffb946ddb04b901dc0672492aff1bb0",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Blc-Xs-Max-i.66992496.15789024321",
+      "rating": 4.2,
+      "badge": "",
+      "highlights": [
+        "Gaya maksimal!",
+        "Tampilan menarik"
+      ]
+    },
+    {
+      "id": "48521327029",
+      "name": "Maternal Disaster - Tshirt - Inhered",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825bc-mv8rr18qf1mqdb",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Inhered-i.66992496.48521327029",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "48871075453",
+      "name": "Maternal Disaster - Tshirt - Fortale",
+      "category": "T-Shirt",
+      "price": 245190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825b6-muzvno9mzbpc83",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Fortale-i.66992496.48871075453",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "26497072881",
+      "name": "Maternal Disaster - Bags - Tamhoc",
+      "category": "Bags",
+      "price": 249000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259t-mvepjxsbd3wqbf",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Tamhoc-i.66992496.26497072881",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "48715515141",
+      "name": "Maternal Disaster - Bags - Larde",
+      "category": "Bags",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82592-mrisragc9lae0e",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Larde-i.66992496.48715515141",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang chic!",
+        "Bahan polyester"
+      ]
+    },
+    {
+      "id": "56621272584",
+      "name": "Maternal Disaster - Jacket - Haunta",
+      "category": "Jacket",
+      "price": 599000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258w-mv8wvwt6kyys1b",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Haunta-i.66992496.56621272584",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "49971088448",
+      "name": "Maternal Disaster - Tshirt - Chemico",
+      "category": "T-Shirt",
+      "price": 276390,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825a7-mv1j1wl4rtvq80",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Chemico-i.66992496.49971088448",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "53771340798",
+      "name": "Maternal Disaster - Tshirt - Impliesa",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82588-mv8rr9gizbpf9c",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Impliesa-i.66992496.53771340798",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "55471039841",
+      "name": "Maternal Disaster - Buttonups - Nosture",
+      "category": "Button-Up",
+      "price": 279000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ay-mv1m9clfo1dz28",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Nosture-i.66992496.55471039841",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "56150097909",
+      "name": "Maternal Disaster - Acc - Thanger Kh",
+      "category": "Accessories",
+      "price": 119000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824hu-mpm7l3ystqmk70",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Thanger-Kh-i.66992496.56150097909",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang chic!",
+        "Logo keren!"
+      ]
+    },
+    {
+      "id": "57821449240",
+      "name": "Maternal Disaster - Acc - Crogta",
+      "category": "Accessories",
+      "price": 319000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259i-mvepk8iw41e0c2",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Crogta-i.66992496.57821449240",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "54021002183",
+      "name": "Maternal Disaster - Tshirt - Deviantal",
+      "category": "T-Shirt",
+      "price": 276390,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259k-mv1j1grtiltu4a",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Deviantal-i.66992496.54021002183",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "51371063528",
+      "name": "Maternal Disaster - Tshirt - Ovater",
+      "category": "T-Shirt",
+      "price": 245190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82591-mv1j2j7p301z40",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Ovater-i.66992496.51371063528",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "58020983697",
+      "name": "Maternal Disaster - Footwear - Wodraf",
+      "category": "Footwear",
+      "price": 79000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8257z-mv1jlwyrpb7u45",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Wodraf-i.66992496.58020983697",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "43372797585",
+      "name": "Maternal Disaster - Underwear - Sing 22",
+      "category": "Underwear",
+      "price": 129000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824iu-mfelsazcd7nx39",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Underwear-Sing-22-i.66992496.43372797585",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya santai!",
+        "Nyaman seharian!"
+      ]
+    },
+    {
+      "id": "45871123350",
+      "name": "Maternal Disaster - Buttonups - Rednote",
+      "category": "Button-Up",
+      "price": 229000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ay-mv1m8y6rgxdy95",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Rednote-i.66992496.45871123350",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "51971018667",
+      "name": "Maternal Disaster - Tshirt - Quinknot",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259c-muztgazheewzb5",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Quinknot-i.66992496.51971018667",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "50415529885",
+      "name": "Maternal Disaster - Tshirt - Hermital",
+      "category": "T-Shirt",
+      "price": 245190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259j-mrjzt2gd1on605",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Hermital-i.66992496.50415529885",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Kain katun 100%",
+        "Gaya santai!"
+      ]
+    },
+    {
+      "id": "43083504586",
+      "name": "Maternal Disaster - Tshirt - Svineal",
+      "category": "T-Shirt",
+      "price": 286350,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82580-mrtswmpcz8xw68",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Svineal-i.66992496.43083504586",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Cetakan menawan!",
+        "Cetakan menarik"
+      ]
+    },
+    {
+      "id": "51715546425",
+      "name": "Maternal Disaster - Acc - Bias",
+      "category": "Accessories",
+      "price": 189000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259m-mrk2lwmzos8x3c",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Bias-i.66992496.51715546425",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Ukuran ideal",
+        "Stylish dan chic!"
+      ]
+    },
+    {
+      "id": "51006500146",
+      "name": "Maternal Disaster - Buttonups - Fiche",
+      "category": "Button-Up",
+      "price": 279000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8262y-ml6b53phi22q91",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Fiche-i.66992496.51006500146",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang unik!",
+        "Warna ceria!"
+      ]
+    },
+    {
+      "id": "57055687190",
+      "name": "Maternal Disaster - Acc - Playcard 6",
+      "category": "Accessories",
+      "price": 119000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8261m-mk6eisa9f09346",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Playcard-6-i.66992496.57055687190",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Seru dan unik!",
+        "Finishing varnish"
+      ]
+    },
+    {
+      "id": "55520947800",
+      "name": "Maternal Disaster - Tshirt - Jhetro",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259m-muzvk94rnqbme2",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Jhetro-i.66992496.55520947800",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "55671326393",
+      "name": "Maternal Disaster - Bags - Rosud",
+      "category": "Bags",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825b6-mv8uq39v74zu48",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Rosud-i.66992496.55671326393",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "48112735841",
+      "name": "Maternal Disaster - Acc - Matpad 09",
+      "category": "Accessories",
+      "price": 109000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824gm-mpuigmv3npj5c4",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Matpad-09-i.66992496.48112735841",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Laminasi kuat",
+        "Bahan eva ringan"
+      ]
+    },
+    {
+      "id": "45906251739",
+      "name": "Maternal Disaster - Acc - Zirra",
+      "category": "Accessories",
+      "price": 219000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8260x-mkrlh5qugqgw93",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Zirra-i.66992496.45906251739",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Ringan dan nyaman",
+        "Gaya modern"
+      ]
+    },
+    {
+      "id": "49106255711",
+      "name": "Maternal Disaster - Headwear - Mitsha",
+      "category": "Headwear",
+      "price": 159000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8262d-mkrmd4dwgyrm19",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Headwear-Mitsha-i.66992496.49106255711",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Satu ukuran pas!",
+        "Satu ukuran pas"
+      ]
+    },
+    {
+      "id": "48871112352",
+      "name": "Maternal Disaster - Bags - Manica",
+      "category": "Bags",
+      "price": 319000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825a0-mv1ju1mpgbnu65",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Manica-i.66992496.48871112352",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "43886498039",
+      "name": "Maternal Disaster - Jacket - Unmyst",
+      "category": "Jacket",
+      "price": 419000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ao-mv1mz92u0r9i06",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Unmyst-i.66992496.43886498039",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "49721044066",
+      "name": "Maternal Disaster - Jacket - Stegans",
+      "category": "Jacket",
+      "price": 579000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82588-mv1mzxioc2kqcc",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Stegans-i.66992496.49721044066",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "55671317186",
+      "name": "Maternal Disaster - Acc - Motreds",
+      "category": "Accessories",
+      "price": 99000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259h-mv8sgpi7ol4z06",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Motreds-i.66992496.55671317186",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "49758302448",
+      "name": "Maternal Disaster - Footwear - Slugs Dw",
+      "category": "Footwear",
+      "price": 649000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81zug-mmpkdfsyaiv58a",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Slugs-Dw-i.66992496.49758302448",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Desain slip-on",
+        "Gaya yang keren!"
+      ]
+    },
+    {
+      "id": "45821095101",
+      "name": "Maternal Disaster - Jacket - Rasev",
+      "category": "Jacket",
+      "price": 599000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825bd-mv1myslhaq6d5d",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Rasev-i.66992496.45821095101",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "40162261085",
+      "name": "Maternal Disaster - Acc - Bluds",
+      "category": "Accessories",
+      "price": 499000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-7rdxa-md9xngbewxfgef",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Bluds-i.66992496.40162261085",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Desain unisex",
+        "Tampilan keren!"
+      ]
+    },
+    {
+      "id": "49121039772",
+      "name": "Maternal Disaster - Buttonups - Gaiston",
+      "category": "Button-Up",
+      "price": 279000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825av-mv1m9t3q6lfp46",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Gaiston-i.66992496.49121039772",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "49307125788",
+      "name": "Maternal Disaster - Footwear - Slugs Bw",
+      "category": "Footwear",
+      "price": 649000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8260b-mlpzh0ee5mo5c4",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Slugs-Bw-i.66992496.49307125788",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Desain slip-on",
+        "Gaya yang keren!"
+      ]
+    },
+    {
+      "id": "49415549952",
+      "name": "Maternal Disaster - Tshirt - Tronae",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ax-mrjzskt2p5vl6b",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Tronae-i.66992496.49415549952",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Kain katun lembut"
+      ]
+    },
+    {
+      "id": "54906746506",
+      "name": "Maternal Disaster - Acc - Slasp",
+      "category": "Accessories",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8261m-mlf35gjwhhqb1d",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Slasp-i.66992496.54906746506",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Mudah dipadukan",
+        "Tampil beda!"
+      ]
+    },
+    {
+      "id": "57710871008",
+      "name": "Maternal Disaster - Buttonups - Braco",
+      "category": "Button-Up",
+      "price": 379000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-823rq-moh5uqcslxc1d0",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Braco-i.66992496.57710871008",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Knit nyaman",
+        "Embroideri ringan"
+      ]
+    },
+    {
+      "id": "49521039762",
+      "name": "Maternal Disaster - Buttonups - Voitta",
+      "category": "Button-Up",
+      "price": 279000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ac-mv1ma0c0i1hf29",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Voitta-i.66992496.49521039762",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "40317770850",
+      "name": "Maternal Disaster - Tshirt - Lersant",
+      "category": "T-Shirt",
+      "price": 220890,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824h6-meb2zco6wuf6af",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Lersant-i.66992496.40317770850",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Nyaman dipakai!"
+      ]
+    },
+    {
+      "id": "46612165053",
+      "name": "Maternal Disaster - Acc - Censo",
+      "category": "Accessories",
+      "price": 199000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824ix-mpeqrrar5v64ef",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Censo-i.66992496.46612165053",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "10 incense stick!",
+        "Ukuran ideal"
+      ]
+    },
+    {
+      "id": "47805708578",
+      "name": "Maternal Disaster - Tshirt - Matterno",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82602-mk6mjlq00ft1b9",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Matterno-i.66992496.47805708578",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Desain stylish!",
+        "Gaya kekinian!"
+      ]
+    },
+    {
+      "id": "54221463148",
+      "name": "Maternal Disaster - Pants - Wrethsa",
+      "category": "Pants",
+      "price": 319000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259r-mvephw0nliiu60",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Wrethsa-i.66992496.54221463148",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "57921266650",
+      "name": "Maternal Disaster - Tshirt - Wevrol",
+      "category": "T-Shirt",
+      "price": 245190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82590-mv8rsyb7wy6a64",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Wevrol-i.66992496.57921266650",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "46371113448",
+      "name": "Maternal Disaster - Tshirt - Animusa",
+      "category": "T-Shirt",
+      "price": 276390,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258t-mv1j003xejnp15",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Animusa-i.66992496.46371113448",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "51171027064",
+      "name": "Maternal Disaster - Sweatshirt - Abstrol",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8257v-muzwzh10vo5e54",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Abstrol-i.66992496.51171027064",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "45921091347",
+      "name": "Maternal Disaster - Acc - Stoner",
+      "category": "Accessories",
+      "price": 129000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259k-mv1jtf2l0hza4f",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Stoner-i.66992496.45921091347",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "47451237862",
+      "name": "Maternal Disaster - Tshirt - Trosto",
+      "category": "T-Shirt",
+      "price": 220890,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-821ex-mgytiu67aeq741",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Trosto-i.66992496.47451237862",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya santai!",
+        "Ringan dan nyaman"
+      ]
+    },
+    {
+      "id": "51562061646",
+      "name": "Maternal Disaster - Tshirt - Culpta",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-823p5-mpcg25mw2t5aee",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Culpta-i.66992496.51562061646",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Tampilan stylish"
+      ]
+    },
+    {
+      "id": "49815540859",
+      "name": "Maternal Disaster - Acc - Saboth",
+      "category": "Accessories",
+      "price": 349000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258c-mrjr8ta6718n56",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Saboth-i.66992496.49815540859",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Panjang ideal",
+        "Tersedia 3 ukuran"
+      ]
+    },
+    {
+      "id": "45368822497",
+      "name": "Maternal Disaster - Acc - Sigle",
+      "category": "Accessories",
+      "price": 199000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825am-mtyq6clzk3yd5e",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Sigle-i.66992496.45368822497",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Ukuran ideal",
+        "Logo klasik"
+      ]
+    },
+    {
+      "id": "42828561386",
+      "name": "Maternal Disaster - Sweatshirt - Tortoa",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8262b-mk9a3w2ufmyt14",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Tortoa-i.66992496.42828561386",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Knitwear nyaman",
+        "Turtleneck modern"
+      ]
+    },
+    {
+      "id": "58120943029",
+      "name": "Maternal Disaster - Sweatshirt - Krowno",
+      "category": "Sweatshirt",
+      "price": 439000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825a8-muzwvp3vlg5d0a",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Krowno-i.66992496.58120943029",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "56721272633",
+      "name": "Maternal Disaster - Sweatshirt - Gradofe",
+      "category": "Sweatshirt",
+      "price": 439000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82594-mv8ww43bfbpl49",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Gradofe-i.66992496.56721272633",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "57454050510",
+      "name": "Maternal Disaster - Sweatshirt - GREGO",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81zv9-mizzcj9d42rne0",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-GREGO-i.66992496.57454050510",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang keren!",
+        "Cetakan cerah!"
+      ]
+    },
+    {
+      "id": "55155303190",
+      "name": "Maternal Disaster - Footwear - Fughaz Aw",
+      "category": "Footwear",
+      "price": 439000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8262p-mjxm9x76oiyv7e",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Fughaz-Aw-i.66992496.55155303190",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya yang chic!",
+        "Nyaman seharian!"
+      ]
+    },
+    {
+      "id": "52765477615",
+      "name": "Maternal Disaster - Buttonups - Carpiem",
+      "category": "Button-Up",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825bd-mrilwquxbsw0f9",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Carpiem-i.66992496.52765477615",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Detail menawan!",
+        "Kain katun nyaman"
+      ]
+    },
+    {
+      "id": "27635769064",
+      "name": "Maternal Disaster - Acc - Ovtred",
+      "category": "Accessories",
+      "price": 99000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-7rfhi-m99q4nejq6yo5a",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Ovtred-i.66992496.27635769064",
+      "rating": 5,
+      "badge": "",
+      "highlights": []
+    },
+    {
+      "id": "52020953825",
+      "name": "Maternal Disaster - Pants - Mdj 22",
+      "category": "Pants",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259k-mv035513utj9c8",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Mdj-22-i.66992496.52020953825",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "53221459270",
+      "name": "Maternal Disaster - Pants - Balent",
+      "category": "Pants",
+      "price": 319000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259w-mvepi63j8s95ab",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Balent-i.66992496.53221459270",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "44186482407",
+      "name": "Maternal Disaster - Tshirt - Biscual",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259y-mv1j0nmijvgl1f",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Biscual-i.66992496.44186482407",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "54605674527",
+      "name": "Maternal Disaster - Acc - Bolter",
+      "category": "Accessories",
+      "price": 199000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8262j-mk6eunzcpeyr70",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Bolter-i.66992496.54605674527",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Logo klasik",
+        "Tampil beda!"
+      ]
+    },
+    {
+      "id": "52615738991",
+      "name": "Maternal Disaster - Buttonups - Toughan",
+      "category": "Button-Up",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825b3-mrpfnw0h6eiw27",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Toughan-i.66992496.52615738991",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang unik!",
+        "Kain katun nyaman"
+      ]
+    },
+    {
+      "id": "56306742891",
+      "name": "Maternal Disaster - Acc - Squale",
+      "category": "Accessories",
+      "price": 99000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8260p-mlf3fmt4t6v70a",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Squale-i.66992496.56306742891",
+      "rating": 4.3,
+      "badge": "",
+      "highlights": [
+        "Kecil dan imut!",
+        "Bentuk unik!"
+      ]
+    },
+    {
+      "id": "53415541328",
+      "name": "Maternal Disaster - Jacket - Mortemo",
+      "category": "Jacket",
+      "price": 569000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825a0-mrk0al76w93cae",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Mortemo-i.66992496.53415541328",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya maksimal!",
+        "Desain stylish"
+      ]
+    },
+    {
+      "id": "47818689564",
+      "name": "Maternal Disaster  - Jacket - Liberer",
+      "category": "Jacket",
+      "price": 449000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8257t-mtt8hvhoxiit93",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Liberer-i.66992496.47818689564",
+      "rating": 4.7,
+      "badge": "",
+      "highlights": [
+        "Ringan dan nyaman",
+        "Logo kolaborasi"
+      ]
+    },
+    {
+      "id": "53165463820",
+      "name": "Maternal Disaster - Sweatshirt - Xathre",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258p-mrikc8obpkow49",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Xathre-i.66992496.53165463820",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Knitwear nyaman",
+        "Gaya kekinian!"
+      ]
+    },
+    {
+      "id": "57302892219",
+      "name": "Maternal Disaster - Underwear - Herald",
+      "category": "Underwear",
+      "price": 199000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-822yg-mi3bs9hpnoch75",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Underwear-Herald-i.66992496.57302892219",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Bahan polyester",
+        "Motif polos"
+      ]
+    },
+    {
+      "id": "48665496385",
+      "name": "Maternal Disaster - Sweatshirt - Instones",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259v-mriim5kaz8jkc3",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Instones-i.66992496.48665496385",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang keren!",
+        "Lengan panjang"
+      ]
+    },
+    {
+      "id": "42786498038",
+      "name": "Maternal Disaster - Jacket - Bloomer",
+      "category": "Jacket",
+      "price": 549000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82593-mv1mz0uinimcb6",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Bloomer-i.66992496.42786498038",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "56671029782",
+      "name": "Maternal Disaster - Buttonups - Darkeds",
+      "category": "Button-Up",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258e-mv1ma8b63281bc",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Darkeds-i.66992496.56671029782",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "55621460865",
+      "name": "Maternal Disaster - Pants - Converta",
+      "category": "Pants",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825a5-mvepisnim39d49",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Converta-i.66992496.55621460865",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "54865454230",
+      "name": "Maternal Disaster - Footwear - Hulao",
+      "category": "Footwear",
+      "price": 79000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258g-mrif0uke3ito84",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Hulao-i.66992496.54865454230",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Satu ukuran pas!",
+        "Warna hitam, biru"
+      ]
+    },
+    {
+      "id": "40966905669",
+      "name": "Maternal Disaster - Sweatshirt - Turrae",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824iw-me4dlzfumn0g06",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Turrae-i.66992496.40966905669",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Nyaman dipakai!"
+      ]
+    },
+    {
+      "id": "49868822563",
+      "name": "Maternal Disaster - Pants - Cargent",
+      "category": "Pants",
+      "price": 419000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825bc-mtyqaqjy8x6s3b",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Cargent-i.66992496.49868822563",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Desain cargo",
+        "Gaya simpel!"
+      ]
+    },
+    {
+      "id": "40516968583",
+      "name": "Maternal Disaster - Buttonups - Sqrown",
+      "category": "Button-Up",
+      "price": 279000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824hu-me4n9e7bixabaf",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Sqrown-i.66992496.40516968583",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Sentuhan vintage!",
+        "Nyaman dipakai!"
+      ]
+    },
+    {
+      "id": "44560854315",
+      "name": "Maternal Disaster - Tshirt - Maltede",
+      "category": "T-Shirt",
+      "price": 245190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-822xa-moggqnp4omj1c8",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Maltede-i.66992496.44560854315",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Kain katun 100%",
+        "Gaya santai!"
+      ]
+    },
+    {
+      "id": "49421044056",
+      "name": "Maternal Disaster - Jacket - Krypta",
+      "category": "Jacket",
+      "price": 1799000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258p-mv1mzowfnny923",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Krypta-i.66992496.49421044056",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "29779023438",
+      "name": "Maternal Disaster - Footwear - Savior Low Ab",
+      "category": "Footwear",
+      "price": 449000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-7rd4u-m763lpafbq5df9",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Savior-Low-Ab-i.66992496.29779023438",
+      "rating": 4.8,
+      "badge": "",
+      "highlights": [
+        "Gaya yang keren!",
+        "Kanvas hitam kuat"
+      ]
+    },
+    {
+      "id": "47819493202",
+      "name": "Maternal Disaster - Acc - Ringrub Ab",
+      "category": "Accessories",
+      "price": 99000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825aa-muholoe2mia048",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Ringrub-Ab-i.66992496.47819493202",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "47615507627",
+      "name": "Maternal Disaster - Tshirt - Anciers",
+      "category": "T-Shirt",
+      "price": 378350,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8257z-mriyf0okk4jmd6",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Anciers-i.66992496.47615507627",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang unik!",
+        "Motif unik"
+      ]
+    },
+    {
+      "id": "57506301240",
+      "name": "Maternal Disaster - Tshirt - Infieldo",
+      "category": "T-Shirt",
+      "price": 376290,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8261u-mkxjggzbxa0wd4",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Infieldo-i.66992496.57506301240",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Detail rapi!",
+        "Gaya maksimal!"
+      ]
+    },
+    {
+      "id": "42268717031",
+      "name": "Maternal Disaster - Acc - Manifery",
+      "category": "Accessories",
+      "price": 99000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824g9-mek7lo8wgwed60",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Manifery-i.66992496.42268717031",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Tampilan stylish!",
+        "Gaya simpel!"
+      ]
+    },
+    {
+      "id": "26092598246",
+      "name": "Maternal Disaster - Underwear - Sing 20",
+      "category": "Underwear",
+      "price": 139000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824h7-mfelsh9sj3ey59",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Underwear-Sing-20-i.66992496.26092598246",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Patch menarik",
+        "Ukuran bervariasi"
+      ]
+    },
+    {
+      "id": "45418822356",
+      "name": "Maternal Disaster - Acc - Droid",
+      "category": "Accessories",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ah-mtyq2uam3e2o04",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Droid-i.66992496.45418822356",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Tersedia 4 ukuran",
+        "Cocok untuk motor"
+      ]
+    },
+    {
+      "id": "45421095195",
+      "name": "Maternal Disaster - Jacket - Storgate",
+      "category": "Jacket",
+      "price": 419000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258a-mv1mykgaox6r98",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Storgate-i.66992496.45421095195",
+      "rating": 4.8,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "49506260444",
+      "name": "Maternal Disaster - Sweatshirt - Neckale",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8261d-mkrmypgcmo7a6a",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Neckale-i.66992496.49506260444",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya yang keren!",
+        "Mudah dipadukan"
+      ]
+    },
+    {
+      "id": "49821053243",
+      "name": "Maternal Disaster - Pants - Oxfort",
+      "category": "Pants",
+      "price": 349000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258x-mv1owa2wxpmx07",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Oxfort-i.66992496.49821053243",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "55455695084",
+      "name": "Maternal Disaster - Underwear - Kuina",
+      "category": "Underwear",
+      "price": 199000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8262u-mk6n34odhj437e",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Underwear-Kuina-i.66992496.55455695084",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya sporty chic!",
+        "Desain trendy!"
+      ]
+    },
+    {
+      "id": "43356033868",
+      "name": "Maternal Disaster - Acc - Vessel13 Mb",
+      "category": "Accessories",
+      "price": 999000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-7ra1h-mbf94tkwbl9h8c",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Vessel13-Mb-i.66992496.43356033868",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Digital modern!",
+        "Ukuran ideal"
+      ]
+    },
+    {
+      "id": "50103590663",
+      "name": "Maternal Disaster - Tshirt - Pothos",
+      "category": "T-Shirt",
+      "price": 241558,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81zvy-min13x5grzeq4e",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Pothos-i.66992496.50103590663",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Desain oversized"
+      ]
+    },
+    {
+      "id": "46156255981",
+      "name": "Maternal Disaster - Sweatshirt - Vhire",
+      "category": "Sweatshirt",
+      "price": 439000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8260i-mkrn416pitq939",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Vhire-i.66992496.46156255981",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Knitwear nyaman",
+        "Gaya kekinian!"
+      ]
+    },
+    {
+      "id": "52068874586",
+      "name": "Maternal Disaster - Acc - Lgv 53",
+      "category": "Accessories",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825an-mu1kt5am4hl285",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Lgv-53-i.66992496.52068874586",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang trendi",
+        "Gaya maksimal!"
+      ]
+    },
+    {
+      "id": "43377488484",
+      "name": "Maternal Disaster - Jacket - Naochov",
+      "category": "Jacket",
+      "price": 619000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81zuf-minda8exd2q08d",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Naochov-i.66992496.43377488484",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Tahan air banget!",
+        "Set lengkap"
+      ]
+    },
+    {
+      "id": "47619489341",
+      "name": "Maternal Disaster - Acc - Ringrub Bw",
+      "category": "Accessories",
+      "price": 99000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82593-muholu4vnmdgfc",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Ringrub-Bw-i.66992496.47619489341",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "48211710291",
+      "name": "Maternal Disaster - Sweatshirt - Fragmest",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-823of-mp2ku4nh15ou86",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Fragmest-i.66992496.48211710291",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Cetakan keren!",
+        "Nyaman banget!"
+      ]
+    },
+    {
+      "id": "55916837665",
+      "name": "Maternal Disaster - Acc - Rexon Tp",
+      "category": "Accessories",
+      "price": 219000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82587-msdxjx3evle083",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Rexon-Tp-i.66992496.55916837665",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya santai",
+        "Desain unik!"
+      ]
+    },
+    {
+      "id": "45315468690",
+      "name": "Maternal Disaster - Tshirt - Rampicant",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825b0-mricqko9h5og4f",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Rampicant-i.66992496.45315468690",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Desain stylish"
+      ]
+    },
+    {
+      "id": "46402669230",
+      "name": "Maternal Disaster - Buttonups - Flament",
+      "category": "Button-Up",
+      "price": 269000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-822x2-mhw6shgyljiccb",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Flament-i.66992496.46402669230",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang unik!",
+        "Simpel dan chic!"
+      ]
+    },
+    {
+      "id": "56710872365",
+      "name": "Maternal Disaster - Acc - Mt Cutlery Sc",
+      "category": "Accessories",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-823rm-mohdajowqgwc50",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Mt-Cutlery-Sc-i.66992496.56710872365",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Set lengkap!",
+        "Set lengkap"
+      ]
+    },
+    {
+      "id": "56003581156",
+      "name": "Maternal Disaster - Tshirt - Quasto",
+      "category": "T-Shirt",
+      "price": 220890,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81zw1-min18lq4ak2004",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Quasto-i.66992496.56003581156",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Sleef 3/4 nyaman",
+        "Desain raglan 3/4"
+      ]
+    },
+    {
+      "id": "41683336882",
+      "name": "Maternal Disaster - Acc - Trashold",
+      "category": "Accessories",
+      "price": 199000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258q-mrk2lrii33sx9c",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Trashold-i.66992496.41683336882",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang keren!",
+        "Tag koper hitam"
+      ]
+    },
+    {
+      "id": "46265483698",
+      "name": "Maternal Disaster - Tshirt - Skelatons",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ac-mrie4ovb9fy807",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Skelatons-i.66992496.46265483698",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Kain katun hitam"
+      ]
+    },
+    {
+      "id": "51502653594",
+      "name": "Maternal Disaster - Sweatshirt - Growly",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-822yx-mhw6plbulukkc8",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Growly-i.66992496.51502653594",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Tampilan stylish!",
+        "Nyaman seharian!"
+      ]
+    },
+    {
+      "id": "49765767745",
+      "name": "Maternal Disaster - Buttonups - Sunral",
+      "category": "Button-Up",
+      "price": 349000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259b-mrpjlixzwyyvd1",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Sunral-i.66992496.49765767745",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Embroideri putih",
+        "Gaya yang unik!"
+      ]
+    },
+    {
+      "id": "47365483608",
+      "name": "Maternal Disaster - Tshirt - Eastge",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82595-mrie54umzqpx54",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Eastge-i.66992496.47365483608",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Gaya kekinian!"
+      ]
+    },
+    {
+      "id": "51571031106",
+      "name": "Maternal Disaster - Tshirt - Flowat",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259q-muzumbp1bh1j4a",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Flowat-i.66992496.51571031106",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "55271055616",
+      "name": "Maternal Disaster - Sweatshirt - Fightale",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258j-mv1o8rehj6df2c",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Fightale-i.66992496.55271055616",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "47253615863",
+      "name": "Maternal Disaster - Bags - Atton",
+      "category": "Bags",
+      "price": 349000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81zw0-min2cmki94avfa",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Atton-i.66992496.47253615863",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Ruang luas 15l!",
+        "Ruang luas 15l"
+      ]
+    },
+    {
+      "id": "45105707211",
+      "name": "Maternal Disaster - Bags - Torqui",
+      "category": "Bags",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8260z-mk6f6ed8blzcf5",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Torqui-i.66992496.45105707211",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Ruang luas 13l",
+        "Gaya yang chic!"
+      ]
+    },
+    {
+      "id": "56710872389",
+      "name": "Maternal Disaster - Acc - Mt Cutlery Bn",
+      "category": "Accessories",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-823pt-mohc9z6x5m313a",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Mt-Cutlery-Bn-i.66992496.56710872389",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Set lengkap!",
+        "Tampilan elegan"
+      ]
+    },
+    {
+      "id": "43683292516",
+      "name": "Maternal Disaster - Tshirt - Ornamont",
+      "category": "T-Shirt",
+      "price": 245190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ap-mrict45kj9q857",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Ornamont-i.66992496.43683292516",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Kain katun 100%"
+      ]
+    },
+    {
+      "id": "17395838582",
+      "name": "Maternal Disaster - Footwear - Tofler Ab",
+      "category": "Footwear",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lkyq88kl945c4f",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Tofler-Ab-i.66992496.17395838582",
+      "rating": 4.9,
+      "badge": "Pilih Lokal",
+      "highlights": [
+        "Patch tenun unik"
+      ]
+    },
+    {
+      "id": "56316837590",
+      "name": "Maternal Disaster - Acc - Rexon Tg",
+      "category": "Accessories",
+      "price": 219000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259f-msdxk14j3eo2de",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Rexon-Tg-i.66992496.56316837590",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya unik",
+        "Gaya kekinian!"
+      ]
+    },
+    {
+      "id": "41217294373",
+      "name": "Maternal Disaster - Tshirt - Vonem",
+      "category": "T-Shirt",
+      "price": 220890,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824gw-me6yhh7wml1e8b",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Vonem-i.66992496.41217294373",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Nyaman seharian!"
+      ]
+    },
+    {
+      "id": "49752669328",
+      "name": "Maternal Disaster - Tshirt - Xorte",
+      "category": "T-Shirt",
+      "price": 220890,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-822zp-mhw6oanytuyo27",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Xorte-i.66992496.49752669328",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Nyaman dipakai!"
+      ]
+    },
+    {
+      "id": "11754536836",
+      "name": "Maternal Disaster - Footwear - Fughaz Bw",
+      "category": "Footwear",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/64f017fa848c1d50f499bd62d1c124fa",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Fughaz-Bw-i.66992496.11754536836",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Kanvas yang awet!",
+        "Desain kasual"
+      ]
+    },
+    {
+      "id": "49556515436",
+      "name": "Maternal Disaster - Sweatshirt - Coxhen",
+      "category": "Sweatshirt",
+      "price": 389000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8261h-ml6b3dya8xz6f9",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Coxhen-i.66992496.49556515436",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang unik!",
+        "Kain katun nyaman"
+      ]
+    },
+    {
+      "id": "53255695159",
+      "name": "Maternal Disaster - Underwear - Gudinna",
+      "category": "Underwear",
+      "price": 199000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8262k-mk6mxgthvksk7f",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Underwear-Gudinna-i.66992496.53255695159",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang chic!",
+        "Ringan dan nyaman"
+      ]
+    },
+    {
+      "id": "53866911291",
+      "name": "Maternal Disaster - Jacket- Jahtro",
+      "category": "Jacket",
+      "price": 439000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259g-msf8wp3xhyx2dc",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Jahtro-i.66992496.53866911291",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Knitwear hitam",
+        "Gaya yang chic!"
+      ]
+    },
+    {
+      "id": "53415487303",
+      "name": "Maternal Disaster - Bags - Mavit",
+      "category": "Bags",
+      "price": 489000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825av-mrixi8wz95oiff",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Mavit-i.66992496.53415487303",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Bahan nylon kuat",
+        "Ruang luas 16lt"
+      ]
+    },
+    {
+      "id": "11376072505",
+      "name": "Maternal Disaster - Footwear - Planta Ab",
+      "category": "Footwear",
+      "price": 349000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/2da579218020ac21309a488de12a6ade",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Planta-Ab-i.66992496.11376072505",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya yang unik!",
+        "Bahan karet hitam"
+      ]
+    },
+    {
+      "id": "42375774725",
+      "name": "Maternal Disaster - Acc - Ristec Kh",
+      "category": "Accessories",
+      "price": 69000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825a9-mg7mtratzqx616",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Ristec-Kh-i.66992496.42375774725",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Tali yang nyaman!",
+        "Gaya kekinian!"
+      ]
+    },
+    {
+      "id": "43867795149",
+      "name": "Maternal Disaster - Jacket - Bajka",
+      "category": "Jacket",
+      "price": 539000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824gj-mebad183ezuq25",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Bajka-i.66992496.43867795149",
+      "rating": 4.8,
+      "badge": "",
+      "highlights": [
+        "Nyaman dipakai!",
+        "Desain unik!"
+      ]
+    },
+    {
+      "id": "51457097610",
+      "name": "Maternal Disaster - Footwear - Inverni Lbw",
+      "category": "Footwear",
+      "price": 469000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8260a-mlq0823wm9zc45",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Inverni-Lbw-i.66992496.51457097610",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Kulit faux elegan",
+        "Nyaman seharian!"
+      ]
+    },
+    {
+      "id": "54105974390",
+      "name": "Maternal Disaster - Bags - Reindall",
+      "category": "Bags",
+      "price": 519000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8262a-mkhpa58ltc7b66",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Reindall-i.66992496.54105974390",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Tali kulit elegan",
+        "Gaya yang keren!"
+      ]
+    },
+    {
+      "id": "42272433240",
+      "name": "Maternal Disaster - Tshirt - Planat",
+      "category": "T-Shirt",
+      "price": 220890,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824j2-mf9lakn6yr66c9",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Planat-i.66992496.42272433240",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya 20-an!",
+        "Nyaman dipakai!"
+      ]
+    },
+    {
+      "id": "42522473963",
+      "name": "Maternal Disaster - Acc - Carab Kh",
+      "category": "Accessories",
+      "price": 99000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824ii-mfa46eq4ixvw72",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Carab-Kh-i.66992496.42522473963",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya yang unik!",
+        "Kecil, tapi kuat!"
+      ]
+    },
+    {
+      "id": "48021327032",
+      "name": "Maternal Disaster - Tshirt - Leara",
+      "category": "T-Shirt",
+      "price": 365190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82591-mv8rqd2f47wj89",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Leara-i.66992496.48021327032",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "52611916441",
+      "name": "Maternal Disaster - Footwear - Muthrea",
+      "category": "Footwear",
+      "price": 409000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-823pp-mp9aihf0rw99e2",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Muthrea-i.66992496.52611916441",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya yang chic!",
+        "Desain stylish"
+      ]
+    },
+    {
+      "id": "52765463930",
+      "name": "Maternal Disaster - Sweatshirt - Progel",
+      "category": "Sweatshirt",
+      "price": 439000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259q-mrikc0z591c12f",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Progel-i.66992496.52765463930",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Kain katun nyaman",
+        "Gaya kekinian!"
+      ]
+    },
+    {
+      "id": "47254075351",
+      "name": "Maternal Disaster - Sweatshirt - Ogrite",
+      "category": "Sweatshirt",
+      "price": 439000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81zvt-mizzc3jt66mc9d",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Ogrite-i.66992496.47254075351",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Fleece nyaman",
+        "Desain zip-up"
+      ]
+    },
+    {
+      "id": "53856235937",
+      "name": "Maternal Disaster - Tshirt - Dustink",
+      "category": "T-Shirt",
+      "price": 245190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825zn-mkrntjnfvi1242",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Dustink-i.66992496.53856235937",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Gaya santai!"
+      ]
+    },
+    {
+      "id": "52304051140",
+      "name": "Maternal Disaster - Jacket - Ragha",
+      "category": "Jacket",
+      "price": 569000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81ztn-mj060reafj0jc4",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Ragha-i.66992496.52304051140",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Nyaman dipakai!",
+        "Warna menarik"
+      ]
+    },
+    {
+      "id": "40829045505",
+      "name": "Maternal Disaster - Acc - Volture",
+      "category": "Accessories",
+      "price": 319000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8260t-mlf2z6sxecjz75",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Volture-i.66992496.40829045505",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Logo debossed",
+        "Desain elegan"
+      ]
+    },
+    {
+      "id": "44029033020",
+      "name": "Maternal Disaster - Acc - Tharat Bg",
+      "category": "Accessories",
+      "price": 769000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825zw-mlf3g1jvzhtx3e",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Tharat-Bg-i.66992496.44029033020",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Tampil beda!",
+        "Gaya maksimal!"
+      ]
+    },
+    {
+      "id": "54765487455",
+      "name": "Maternal Disaster - Sweatshirt - Skelnal",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259b-mrixvjdtvlky60",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Skelnal-i.66992496.54765487455",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Hangat maksimal!",
+        "Mudah dipadukan"
+      ]
+    },
+    {
+      "id": "29454472850",
+      "name": "Maternal Disaster - Footwear - Savior Low Aw",
+      "category": "Footwear",
+      "price": 449000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-7r98v-lxal6gbvi7a318",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Savior-Low-Aw-i.66992496.29454472850",
+      "rating": 5,
+      "badge": "",
+      "highlights": []
+    },
+    {
+      "id": "50956746618",
+      "name": "Maternal Disaster - Acc - Tharat Bm",
+      "category": "Accessories",
+      "price": 769000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82619-mlf3fve3da8882",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Tharat-Bm-i.66992496.50956746618",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Warna yang chic!",
+        "Desain unik!"
+      ]
+    },
+    {
+      "id": "58011681654",
+      "name": "Maternal Disaster - Sweatshirt - Brente",
+      "category": "Sweatshirt",
+      "price": 439000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-823ps-mp2kq4z9a2hacb",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Brente-i.66992496.58011681654",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Desain lucu unik",
+        "Gaya retro elegan"
+      ]
+    },
+    {
+      "id": "10297895104",
+      "name": "Maternal Disaster - Footwear - Planta Db",
+      "category": "Footwear",
+      "price": 339000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/04ecf5dec364a0940976936876e8e649",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Planta-Db-i.66992496.10297895104",
+      "rating": 4.6,
+      "badge": "",
+      "highlights": [
+        "Gaya santai!",
+        "Desain stylish"
+      ]
+    },
+    {
+      "id": "55505770071",
+      "name": "Maternal Disaster - Tshirt - Hiersta",
+      "category": "T-Shirt",
+      "price": 220890,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82623-mk9d8oylzvns37",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Hiersta-i.66992496.55505770071",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Gaya retro keren!"
+      ]
+    },
+    {
+      "id": "40716991438",
+      "name": "Maternal Disaster - Jacket - Lepov",
+      "category": "Jacket",
+      "price": 799000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824ij-me4ozdnzggshe6",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Lepov-i.66992496.40716991438",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Nyaman dipakai!",
+        "Gaya yang keren!"
+      ]
+    },
+    {
+      "id": "57806488842",
+      "name": "Maternal Disaster - Tshirt - Minotera",
+      "category": "T-Shirt",
+      "price": 245190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8260z-ml6b2g0nz7kf64",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Minotera-i.66992496.57806488842",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Desain raglan 3/4",
+        "Pas di badan!"
+      ]
+    },
+    {
+      "id": "48071112412",
+      "name": "Maternal Disaster - Bags - Harma",
+      "category": "Bags",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259s-mv1jtkphay2qfe",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Harma-i.66992496.48071112412",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "43222478045",
+      "name": "Maternal Disaster - Acc - Recha",
+      "category": "Accessories",
+      "price": 99000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824gk-mfa46khl8n4e0b",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Recha-i.66992496.43222478045",
+      "rating": 4.2,
+      "badge": "",
+      "highlights": [
+        "Bahan daur ulang!",
+        "Tahan lama!"
+      ]
+    },
+    {
+      "id": "48456515447",
+      "name": "Maternal Disaster - Tshirt - Exhorte",
+      "category": "T-Shirt",
+      "price": 245190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82623-ml6b288irif4cf",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Exhorte-i.66992496.48456515447",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Desain raglan 3/4",
+        "Gaya santai!"
+      ]
+    },
+    {
+      "id": "53412715239",
+      "name": "Maternal Disaster - Acc - Zebra",
+      "category": "Accessories",
+      "price": 109000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824j4-mpuhjvhjer65b0",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Zebra-i.66992496.53412715239",
+      "rating": 4.8,
+      "badge": "",
+      "highlights": [
+        "Gaya yang unik!",
+        "Bahan tahan lama"
+      ]
+    },
+    {
+      "id": "51065501927",
+      "name": "Maternal Disaster - Pants - Mdj 18",
+      "category": "Pants",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825b2-mriypu3uv0ug42",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Mdj-18-i.66992496.51065501927",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Detail unik!",
+        "Pas di badan!"
+      ]
+    },
+    {
+      "id": "55556491726",
+      "name": "Maternal Disaster - Sweatshirt - Electrea",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825zw-ml6b3kcxsx73f1",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Electrea-i.66992496.55556491726",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Fleece lembut",
+        "Lembut di kulit"
+      ]
+    },
+    {
+      "id": "57015444945",
+      "name": "Maternal Disaster - Tshirt - Festiver",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259l-mricrrbzssuca8",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Festiver-i.66992496.57015444945",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Desain unik!",
+        "Tampilan stylish"
+      ]
+    },
+    {
+      "id": "41368655998",
+      "name": "Maternal Disaster - Jacket - Tection",
+      "category": "Jacket",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81ztv-migzmwdagow2e1",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Tection-i.66992496.41368655998",
+      "rating": 4.8,
+      "badge": "",
+      "highlights": [
+        "Gaya kasual!",
+        "Tampilan stylish!"
+      ]
+    },
+    {
+      "id": "42181675635",
+      "name": "Maternal Disaster - Pants - Trondheim",
+      "category": "Pants",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824hw-mpeqlhvvaarx64",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Trondheim-i.66992496.42181675635",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Fit sempurna!",
+        "Fit lurus"
+      ]
+    },
+    {
+      "id": "40022807321",
+      "name": "Maternal Disaster - Pants - Khort",
+      "category": "Pants",
+      "price": 369000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824ii-mfe1sixoc6j222",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Khort-i.66992496.40022807321",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya yang chic!",
+        "Nyaman seharian!"
+      ]
+    },
+    {
+      "id": "40217075087",
+      "name": "Maternal Disaster - Sweatshirt - Khaker",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824hk-me5ay8p2835vd4",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Khaker-i.66992496.40217075087",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Nyaman seharian!"
+      ]
+    },
+    {
+      "id": "45057109829",
+      "name": "Maternal Disaster - Footwear - Slugs Wb",
+      "category": "Footwear",
+      "price": 649000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825zr-mlpvmitj9m9x63",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Slugs-Wb-i.66992496.45057109829",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang keren!",
+        "Desain slip-on"
+      ]
+    },
+    {
+      "id": "25591016979",
+      "name": "Maternal Disaster - Footwear - Dwarf Md",
+      "category": "Footwear",
+      "price": 559000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-7rblw-m5thof89a9zr5f",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Dwarf-Md-i.66992496.25591016979",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya yang unik!",
+        "Desain slip-on"
+      ]
+    },
+    {
+      "id": "46158293389",
+      "name": "Maternal Disaster - Pants - Greathal",
+      "category": "Pants",
+      "price": 419000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81zui-mmpkmc4r5ybsd5",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Greathal-i.66992496.46158293389",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Kain katun nyaman",
+        "Nyaman seharian!"
+      ]
+    },
+    {
+      "id": "48465478230",
+      "name": "Maternal Disaster - Tshirt - Krakoa",
+      "category": "T-Shirt",
+      "price": 286350,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259v-mricnv072q6a45",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Krakoa-i.66992496.48465478230",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Detail sempurna!",
+        "Desain unik"
+      ]
+    },
+    {
+      "id": "47859247956",
+      "name": "Maternal Disaster - Jacket - Romov",
+      "category": "Jacket",
+      "price": 599000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-820nv-mnb5n50c7kld63",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Romov-i.66992496.47859247956",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Bahan polyester",
+        "Nyaman dipakai!"
+      ]
+    },
+    {
+      "id": "44621370000",
+      "name": "Maternal Disaster - Bags - Lovren",
+      "category": "Bags",
+      "price": 449000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259v-mv8uqa0ee6te25",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Lovren-i.66992496.44621370000",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "56265457986",
+      "name": "Maternal Disaster - Tshirt - Beclear",
+      "category": "T-Shirt",
+      "price": 286350,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259d-mrico307d9fm1f",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Beclear-i.66992496.56265457986",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Cetakan cerah!",
+        "Cetakan menarik"
+      ]
+    },
+    {
+      "id": "50165489015",
+      "name": "Maternal Disaster - Pants - Mdj 19",
+      "category": "Pants",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259v-mriyplsxoyyoc4",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Mdj-19-i.66992496.50165489015",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Detail unik chic!",
+        "Pas di badan!"
+      ]
+    },
+    {
+      "id": "50955674760",
+      "name": "Maternal Disaster - Bags - Bounter",
+      "category": "Bags",
+      "price": 349000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8261k-mk6f9ylja58oe7",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Bounter-i.66992496.50955674760",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Bahan nilon kuat!",
+        "Ruang luas 11,5l!"
+      ]
+    },
+    {
+      "id": "24508874517",
+      "name": "Maternal Disaster - Footwear - Steppal",
+      "category": "Footwear",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-7r990-lqlegkr57gw585",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Steppal-i.66992496.24508874517",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": []
+    },
+    {
+      "id": "43881049727",
+      "name": "Maternal Disaster - Pants - Mdj 16",
+      "category": "Pants",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-823od-moh9p3iq9fd540",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Mdj-16-i.66992496.43881049727",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Fit ramping"
+      ]
+    },
+    {
+      "id": "52665448769",
+      "name": "Maternal Disaster - Tshirt - Neurona",
+      "category": "T-Shirt",
+      "price": 245190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82596-mricqtap0ttz3c",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Neurona-i.66992496.52665448769",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Cuff elastis"
+      ]
+    },
+    {
+      "id": "22785876943",
+      "name": "Maternal Disaster - Acc - Soulen",
+      "category": "Accessories",
+      "price": 99000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lns5v9g83dy3c4",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Soulen-i.66992496.22785876943",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Ukuran ideal",
+        "Aroma segar"
+      ]
+    },
+    {
+      "id": "43627699363",
+      "name": "Maternal Disaster - Tshirt - Robelton",
+      "category": "T-Shirt",
+      "price": 220890,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81zv9-miznp0wtb94y8c",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Robelton-i.66992496.43627699363",
+      "rating": 4.8,
+      "badge": "",
+      "highlights": [
+        "Kain katun 100%",
+        "Rib cuff nyaman"
+      ]
+    },
+    {
+      "id": "45505318411",
+      "name": "Maternal Disaster - Footwear - Fughaz Hi Bw",
+      "category": "Footwear",
+      "price": 449000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82607-mjxm9c45zklj97",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Fughaz-Hi-Bw-i.66992496.45505318411",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang keren!",
+        "Tali hitam elegan"
+      ]
+    },
+    {
+      "id": "29291429544",
+      "name": "Maternal Disaster - Headwear - Misks",
+      "category": "Headwear",
+      "price": 179000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824ga-mejqc70j7xfkd4",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Headwear-Misks-i.66992496.29291429544",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Nyaman dipakai!",
+        "Bahan elastis!"
+      ]
+    },
+    {
+      "id": "53756736790",
+      "name": "Maternal Disaster - Pants - Lhorta",
+      "category": "Pants",
+      "price": 349000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82614-mlexrstt56a7f8",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Lhorta-i.66992496.53756736790",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Bahan katun twill"
+      ]
+    },
+    {
+      "id": "44915473242",
+      "name": "Maternal Disaster - Tshirt - Nativo",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258o-mricpo4t7p4wd9",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Nativo-i.66992496.44915473242",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Cetakan menawan!",
+        "Tampilan stylish"
+      ]
+    },
+    {
+      "id": "57821266582",
+      "name": "Maternal Disaster - Tshirt - Pateries",
+      "category": "T-Shirt",
+      "price": 245190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258p-mv8rsr9dpsztc9",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Pateries-i.66992496.57821266582",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "52862136251",
+      "name": "Maternal Disaster - Pants - Valtres",
+      "category": "Pants",
+      "price": 349000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824ij-mpeq9tqzefbjcd",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Valtres-i.66992496.52862136251",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Fit lurus nyaman",
+        "Patch kulit unik"
+      ]
+    },
+    {
+      "id": "52207101138",
+      "name": "Maternal Disaster - Footwear - Lofter",
+      "category": "Footwear",
+      "price": 2599000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82612-mlpv9oxw1fd142",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Lofter-i.66992496.52207101138",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Limited edition!",
+        "Logo ikonik!"
+      ]
+    },
+    {
+      "id": "45905318282",
+      "name": "Maternal Disaster - Footwear - Fughaz Hi",
+      "category": "Footwear",
+      "price": 449000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82610-mjxm9nh1m87a48",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Fughaz-Hi-i.66992496.45905318282",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya yang keren!",
+        "Embroideri putih"
+      ]
+    },
+    {
+      "id": "45610852880",
+      "name": "Maternal Disaster - Tshirt - Quandala",
+      "category": "T-Shirt",
+      "price": 245190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-822xq-moggqh1ecmpt01",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Quandala-i.66992496.45610852880",
+      "rating": 4.3,
+      "badge": "",
+      "highlights": [
+        "Kain katun 100%",
+        "Desain raglan 3/4"
+      ]
+    },
+    {
+      "id": "51552881661",
+      "name": "Maternal Disaster - Bags - Kloner",
+      "category": "Bags",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-822xq-mi36nzmclnupf0",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Kloner-i.66992496.51552881661",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Tampil gaya!",
+        "Bahan tahan lama!"
+      ]
+    },
+    {
+      "id": "52915453821",
+      "name": "Maternal Disaster - Tshirt - Certals",
+      "category": "T-Shirt",
+      "price": 389850,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825a5-mrie6op5t9tt8e",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Certals-i.66992496.52915453821",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Detail rapi!",
+        "Desain stylish"
+      ]
+    },
+    {
+      "id": "26042509857",
+      "name": "Maternal Disaster - Bags - Windlow",
+      "category": "Bags",
+      "price": 559000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824gy-mfaqu4ls7abtb4",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Windlow-i.66992496.26042509857",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Desain elegan!",
+        "Cetakan debossed"
+      ]
+    },
+    {
+      "id": "52220962335",
+      "name": "Maternal Disaster - Pants - Redsta",
+      "category": "Pants",
+      "price": 419000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ay-mv02zks01jb712",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Redsta-i.66992496.52220962335",
+      "rating": 5,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "23552747985",
+      "name": "Maternal Disaster - Footwear - Walka",
+      "category": "Footwear",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-7r98o-lkyq0jpin5uo12",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Walka-i.66992496.23552747985",
+      "rating": 4.8,
+      "badge": "Pilih Lokal",
+      "highlights": [
+        "Nyaman dipakai"
+      ]
+    },
+    {
+      "id": "49818689568",
+      "name": "Maternal Disaster - Tshirt - Skeptur",
+      "category": "T-Shirt",
+      "price": 259000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ad-mtt8izxdthqi30",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Skeptur-i.66992496.49818689568",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Cetakan cerah!",
+        "Cetakan menarik"
+      ]
+    },
+    {
+      "id": "46868703566",
+      "name": "Maternal Disaster - Pants - Disertat",
+      "category": "Pants",
+      "price": 379000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825a5-mtt8i3uz1kapdf",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Disertat-i.66992496.46868703566",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Nyaman seharian!",
+        "Logo grafis putih"
+      ]
+    },
+    {
+      "id": "49415469343",
+      "name": "Maternal Disaster - Tshirt - Crotes",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825av-mrie4x0mieiq21",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Crotes-i.66992496.49415469343",
+      "rating": 4.8,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Fit tubular"
+      ]
+    },
+    {
+      "id": "41917796134",
+      "name": "Maternal Disaster - Pants - Helmar",
+      "category": "Pants",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824gm-mebc24dc1z45ad",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Helmar-i.66992496.41917796134",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Nyaman seharian!",
+        "Gaya yang unik!"
+      ]
+    },
+    {
+      "id": "47168703515",
+      "name": "Maternal Disaster - Tshirt - Libertal",
+      "category": "T-Shirt",
+      "price": 499000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258i-mtt8icxfv5dtde",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Libertal-i.66992496.47168703515",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Tampil beda!",
+        "Cetakan cerah!"
+      ]
+    },
+    {
+      "id": "55302644259",
+      "name": "Maternal Disaster - Acc - Matpad 05",
+      "category": "Accessories",
+      "price": 109000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-822zq-mhw6u1q8m4g6fc",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Matpad-05-i.66992496.55302644259",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Desain menarik!",
+        "Ukuran pas!"
+      ]
+    },
+    {
+      "id": "50010872315",
+      "name": "Maternal Disaster - Acc - Trippy",
+      "category": "Accessories",
+      "price": 219000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-823q7-mohc3435tekgcc",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Trippy-i.66992496.50010872315",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Patch unik",
+        "Ukuran ideal"
+      ]
+    },
+    {
+      "id": "27293928882",
+      "name": "Maternal Disaster - Pants - Sacrate",
+      "category": "Pants",
+      "price": 410000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81zun-mj055gbrhvd36e",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Sacrate-i.66992496.27293928882",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Gaya yang trendy!"
+      ]
+    },
+    {
+      "id": "56153581530",
+      "name": "Maternal Disaster - Tshirt - Itrales",
+      "category": "T-Shirt",
+      "price": 209790,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81zvr-min1hrehn30g86",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Itrales-i.66992496.56153581530",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Desain modern"
+      ]
+    },
+    {
+      "id": "40278675923",
+      "name": "Maternal Disaster - Tshirt - Glideo",
+      "category": "T-Shirt",
+      "price": 365190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8261m-mkhqclxzal1i65",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Glideo-i.66992496.40278675923",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Detail rapi!",
+        "Gaya maksimal!"
+      ]
+    },
+    {
+      "id": "42622473953",
+      "name": "Maternal Disaster - Acc - Recki",
+      "category": "Accessories",
+      "price": 99000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824jd-mfa46hxynswda3",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Recki-i.66992496.42622473953",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Ukuran ideal",
+        "Desain stylish"
+      ]
+    },
+    {
+      "id": "25442907803",
+      "name": "Maternal Disaster - Pants - Greil",
+      "category": "Pants",
+      "price": 389000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-7rd6a-m7knj742s4o763",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Greil-i.66992496.25442907803",
+      "rating": 4.8,
+      "badge": "",
+      "highlights": [
+        "Nyaman dipakai",
+        "Desain modern"
+      ]
+    },
+    {
+      "id": "53271345846",
+      "name": "Maternal Disaster - Tshirt - Seytals",
+      "category": "T-Shirt",
+      "price": 365190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258x-mv8rqtf4nb439b",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Seytals-i.66992496.53271345846",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "41863149755",
+      "name": "Maternal Disaster - Bags - Zenet",
+      "category": "Bags",
+      "price": 519000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-7rdvw-mdfos2t1nezo56",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Zenet-i.66992496.41863149755",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang chic!",
+        "Ukuran ideal"
+      ]
+    },
+    {
+      "id": "56563889663",
+      "name": "Maternal Disaster - Acc - Trooster",
+      "category": "Accessories",
+      "price": 2199000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8257v-mqlkp8h75lot4b",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Trooster-i.66992496.56563889663",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya maksimal!",
+        "Cocok untuk motor"
+      ]
+    },
+    {
+      "id": "52165453316",
+      "name": "Maternal Disaster - Tshirt - Stingez",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82592-mricpvwwh4ao31",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Stingez-i.66992496.52165453316",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Fit sempurna!",
+        "Desain menawan!"
+      ]
+    },
+    {
+      "id": "45902678013",
+      "name": "Maternal Disaster - Sweatshirt - Trikota",
+      "category": "Sweatshirt",
+      "price": 529000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-822yu-mhw6p9umton7fb",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Trikota-i.66992496.45902678013",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Nyaman dipakai!"
+      ]
+    },
+    {
+      "id": "22978706676",
+      "name": "Maternal Disaster - Sweatshirt - Skelig",
+      "category": "Sweatshirt",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-7r98z-ll4h003hk7l5dd",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Skelig-i.66992496.22978706676",
+      "rating": 4.9,
+      "badge": "Pilih Lokal",
+      "highlights": [
+        "Nyaman seharian!"
+      ]
+    },
+    {
+      "id": "51521002847",
+      "name": "Maternal Disaster - Bags - Abnor",
+      "category": "Bags",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82585-mv1ju7mn6br6b7",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Abnor-i.66992496.51521002847",
+      "rating": 4.9,
+      "badge": "Produk Baru",
+      "highlights": []
+    },
+    {
+      "id": "50805727525",
+      "name": "Maternal Disaster - Bags - Gretog",
+      "category": "Bags",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82604-mk802id55hc441",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Gretog-i.66992496.50805727525",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang chic!",
+        "Desain yang unik!"
+      ]
+    },
+    {
+      "id": "54413906302",
+      "name": "Maternal Disaster - Bag - Matstom",
+      "category": "Bags",
+      "price": 449000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259p-mqlogkis52iofe",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bag-Matstom-i.66992496.54413906302",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Ruang luas 9,5l!",
+        "Ruang luas 9,5l"
+      ]
+    },
+    {
+      "id": "48561684806",
+      "name": "Maternal Disaster - Tshirt - Geose",
+      "category": "T-Shirt",
+      "price": 365190,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-823ri-mp27xazoj5s0a9",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Geose-i.66992496.48561684806",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Kering cepat!",
+        "Desain stylish"
+      ]
+    },
+    {
+      "id": "44756550897",
+      "name": "Maternal Disaster - Acc - Tharat Sr",
+      "category": "Accessories",
+      "price": 769000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82601-ml7hujerd7282b",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Tharat-Sr-i.66992496.44756550897",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Polarized glass",
+        "Gaya yang keren!"
+      ]
+    },
+    {
+      "id": "28493928885",
+      "name": "Maternal Disaster - Pants - Cromsal",
+      "category": "Pants",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81zv1-mj055n8uabr683",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Cromsal-i.66992496.28493928885",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang unik!",
+        "Kantong praktis!"
+      ]
+    },
+    {
+      "id": "47705790592",
+      "name": "Maternal Disaster - Tshirt - Neutane",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82617-mk9ey13kw9heb4",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Neutane-i.66992496.47705790592",
+      "rating": 4.8,
+      "badge": "",
+      "highlights": [
+        "Desain stylish!",
+        "Nyaman seharian!"
+      ]
+    },
+    {
+      "id": "40983288221",
+      "name": "Maternal Disaster - Tshirt - Diemond",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82587-mriejc7viznq93",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Diemond-i.66992496.40983288221",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Cetakan menawan!",
+        "Ink halus putih"
+      ]
+    },
+    {
+      "id": "49261684726",
+      "name": "Maternal Disaster - Tshirt - Jiraga",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-823qq-mp27xrfmlxql79",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Jiraga-i.66992496.49261684726",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Tampilan stylish"
+      ]
+    },
+    {
+      "id": "55665444869",
+      "name": "Maternal Disaster - Tshirt - Zilch",
+      "category": "T-Shirt",
+      "price": 286350,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825ac-mricnlmo2i2of7",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Zilch-i.66992496.55665444869",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Detail rapi!",
+        "Gaya santai"
+      ]
+    },
+    {
+      "id": "41483283418",
+      "name": "Maternal Disaster - Tshirt - Protru",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259n-mriek4tap4as80",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Protru-i.66992496.41483283418",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Desain modern"
+      ]
+    },
+    {
+      "id": "14299730568",
+      "name": "Maternal Disaster - Footwear - Walka Gb",
+      "category": "Footwear",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-7r98p-lngn8e621g3e60",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Walka-Gb-i.66992496.14299730568",
+      "rating": 4.8,
+      "badge": "",
+      "highlights": []
+    },
+    {
+      "id": "54116916899",
+      "name": "Maternal Disaster - Bags - Botal",
+      "category": "Bags",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825a1-msfbobvh2io6e1",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Botal-i.66992496.54116916899",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Bahan nylon kuat",
+        "Gaya yang keren!"
+      ]
+    },
+    {
+      "id": "45904044502",
+      "name": "Maternal Disaster - Tshirt - Transala",
+      "category": "T-Shirt",
+      "price": 241558,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-81zwn-miznnn7r7k062b",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Transala-i.66992496.45904044502",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Cetakan cerah!",
+        "Gaya vintage!"
+      ]
+    },
+    {
+      "id": "58110836522",
+      "name": "Maternal Disaster - Acc - Thorned",
+      "category": "Accessories",
+      "price": 269000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-822wt-mogk72uy26m9d9",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Thorned-i.66992496.58110836522",
+      "rating": 4.7,
+      "badge": "",
+      "highlights": [
+        "Ukuran ideal",
+        "Desain stylish"
+      ]
+    },
+    {
+      "id": "56310836637",
+      "name": "Maternal Disaster - Bags - Ruska",
+      "category": "Bags",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-822zy-mogk6f96qpz467",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Ruska-i.66992496.56310836637",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang unik!",
+        "Ukuran ideal"
+      ]
+    },
+    {
+      "id": "45955790139",
+      "name": "Maternal Disaster - Tshirt - Flyskoe",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8262r-mk9dbxgrz20w87",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Flyskoe-i.66992496.45955790139",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Gaya kekinian!"
+      ]
+    },
+    {
+      "id": "40828663531",
+      "name": "Maternal Disaster - Tshirt - Periphera",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8261p-mkhqmncg63nod5",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Periphera-i.66992496.40828663531",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Ink multi warna"
+      ]
+    },
+    {
+      "id": "25058880082",
+      "name": "Maternal Disaster - Footwear - Stompal",
+      "category": "Footwear",
+      "price": 299000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-7r98u-lqlegksj417i17",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Stompal-i.66992496.25058880082",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": []
+    },
+    {
+      "id": "41622805840",
+      "name": "Maternal Disaster - Sweatshirt - Fishbone",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824hf-mfeli6g5hvrf52",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Fishbone-i.66992496.41622805840",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Nyaman seharian!"
+      ]
+    },
+    {
+      "id": "48906351769",
+      "name": "Maternal Disaster - Pants - Sweasha",
+      "category": "Pants",
+      "price": 349000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8262s-ml1m1kt5oyyue4",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Sweasha-i.66992496.48906351769",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang chic!",
+        "Nyaman seharian!"
+      ]
+    },
+    {
+      "id": "51415457878",
+      "name": "Maternal Disaster - Tshirt - Maorat",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8257w-mricpfqzo2yv07",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Maorat-i.66992496.51415457878",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Cetakan tinta abu"
+      ]
+    },
+    {
+      "id": "29041001866",
+      "name": "Maternal Disaster - Pants - Necral",
+      "category": "Pants",
+      "price": 389000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824iw-me58wxqjr5l137",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Necral-i.66992496.29041001866",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Slimfit sempurna!",
+        "Kain polyester"
+      ]
+    },
+    {
+      "id": "44032542276",
+      "name": "Maternal Disaster - Acc - Coster",
+      "category": "Accessories",
+      "price": 369000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259d-mqlor4iqh0r251",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Coster-i.66992496.44032542276",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya maksimal!",
+        "Cocok untuk motor"
+      ]
+    },
+    {
+      "id": "56157097661",
+      "name": "Maternal Disaster - Footwear - Crust 2 Lbw",
+      "category": "Footwear",
+      "price": 449000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82616-mlq0byzaww05da",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Crust-2-Lbw-i.66992496.56157097661",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Gaya yang chic!",
+        "Slip on praktis!"
+      ]
+    },
+    {
+      "id": "43222993113",
+      "name": "Maternal Disaster - Bags - Growne",
+      "category": "Bags",
+      "price": 389000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824is-mfhx3o8kfk7icf",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Growne-i.66992496.43222993113",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Ruang luas 24l!",
+        "Gaya yang chic!"
+      ]
+    },
+    {
+      "id": "40378559433",
+      "name": "Maternal Disaster - Tshirt - Goatone",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8262h-mk9dgpc6nuh393",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Goatone-i.66992496.40378559433",
+      "rating": 4.8,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Nyaman seharian!"
+      ]
+    },
+    {
+      "id": "40173363486",
+      "name": "Maternal Disaster - Sweatshirt - Phaser",
+      "category": "Sweatshirt",
+      "price": 799000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-824gc-mfmgifvdg6xae1",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Phaser-i.66992496.40173363486",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Nyaman seharian!",
+        "Kantong praktis!"
+      ]
+    },
+    {
+      "id": "52210842358",
+      "name": "Maternal Disaster - Sweatshirt - Linewhie",
+      "category": "Sweatshirt",
+      "price": 429000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-823pg-mogo1lwqx6a617",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Sweatshirt-Linewhie-i.66992496.52210842358",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Kain wol nyaman",
+        "Kain wol nyaman!"
+      ]
+    },
+    {
+      "id": "44956550969",
+      "name": "Maternal Disaster - Acc - Tharat Ss",
+      "category": "Accessories",
+      "price": 769000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8260o-ml7huq1kx9twab",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Tharat-Ss-i.66992496.44956550969",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Desain unik!",
+        "Gaya klasik"
+      ]
+    },
+    {
+      "id": "47915502104",
+      "name": "Maternal Disaster - Tshirt - Veinale",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258e-mristg0wj4zp5a",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Veinale-i.66992496.47915502104",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Cetakan halus!",
+        "Kain katun nyaman"
+      ]
+    },
+    {
+      "id": "42228561183",
+      "name": "Maternal Disaster - Pants - Goants",
+      "category": "Pants",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8260h-mk98uyn4a1vp14",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Goants-i.66992496.42228561183",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Kain polyester",
+        "Gaya yang unik!"
+      ]
+    },
+    {
+      "id": "7156032140",
+      "name": "MATERNAL DISASTER - ACC - DEATHJAM SP",
+      "category": "Accessories",
+      "price": 59000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/4e2280daad85c57fecba4a56707a997c",
+      "productUrl": "https://shopee.co.id/MATERNAL-DISASTER-ACC-DEATHJAM-SP-i.66992496.7156032140",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Mudah dipasang!",
+        "Gaya maksimal!"
+      ]
+    },
+    {
+      "id": "55615542555",
+      "name": "Maternal Disaster - Bags - Sivad",
+      "category": "Bags",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259m-mrk2csbckmpyc0",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Bags-Sivad-i.66992496.55615542555",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang unik!",
+        "Ukuran ideal 40cm"
+      ]
+    },
+    {
+      "id": "49315478757",
+      "name": "Maternal Disaster - Tshirt - Whieds",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8258h-mriekmbjq618fe",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Whieds-i.66992496.49315478757",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya kekinian!",
+        "Bahan katun halus"
+      ]
+    },
+    {
+      "id": "40106438771",
+      "name": "Maternal Disaster - Pants - Vaulte",
+      "category": "Pants",
+      "price": 399000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-7ra3w-mbie837n42muaa",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Pants-Vaulte-i.66992496.40106438771",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Gaya yang keren!",
+        "Nyaman seharian!"
+      ]
+    },
+    {
+      "id": "49113914513",
+      "name": "Maternal Disaster - Acc - Troonal",
+      "category": "Accessories",
+      "price": 2099000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-8259r-mqlkiblqfgnjf6",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Acc-Troonal-i.66992496.49113914513",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Tampilan keren!",
+        "Tampilan glossy"
+      ]
+    },
+    {
+      "id": "42931037222",
+      "name": "Maternal Disaster - Tshirt - Venim",
+      "category": "T-Shirt",
+      "price": 243090,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-822ya-moggoca2khl5a9",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Tshirt-Venim-i.66992496.42931037222",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Pas di badan!",
+        "Kain katun halus"
+      ]
+    },
+    {
+      "id": "49652906573",
+      "name": "Maternal Disaster - Buttonups - Sacroal",
+      "category": "Button-Up",
+      "price": 379000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-822zf-mi371mhedn2fc2",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Buttonups-Sacroal-i.66992496.49652906573",
+      "rating": 4.8,
+      "badge": "",
+      "highlights": [
+        "Kancing plastik!",
+        "Nyaman dipakai!"
+      ]
+    },
+    {
+      "id": "57168669518",
+      "name": "Maternal Disaster - pants - Myl-tight",
+      "category": "Pants",
+      "price": 579000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82598-mtt8jf4lhm9v86",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-pants-Myl-tight-i.66992496.57168669518",
+      "rating": 5,
+      "badge": "",
+      "highlights": [
+        "Ruang luas!",
+        "Kompresi optimal"
+      ]
+    },
+    {
+      "id": "56760868272",
+      "name": "Maternal Disaster - Jacket - Froat",
+      "category": "Jacket",
+      "price": 1199000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-823ra-mohbrzrfbqx949",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Jacket-Froat-i.66992496.56760868272",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Bahan twill",
+        "Gaya yang unik!"
+      ]
+    },
+    {
+      "id": "46557109713",
+      "name": "Maternal Disaster - Footwear - Lofter Ct",
+      "category": "Footwear",
+      "price": 2599000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-82605-mlpv4ivzgv0k7b",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Lofter-Ct-i.66992496.46557109713",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": [
+        "Desain debossed",
+        "Handcrafted unik"
+      ]
+    },
+    {
+      "id": "44671689269",
+      "name": "Maternal Disaster - Footwear - Ff 35",
+      "category": "Footwear",
+      "price": 199000,
+      "imageUrl": "https://down-id.img.susercontent.com/file/sg-11134201-825b7-mvhatyw548ax83",
+      "productUrl": "https://shopee.co.id/Maternal-Disaster-Footwear-Ff-35-i.66992496.44671689269",
+      "rating": 4.9,
+      "badge": "",
+      "highlights": []
+    }
+  ]
+}

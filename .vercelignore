@@ -1,0 +1,14 @@
+.env
+.wwebjs_auth
+.wwebjs_cache
+node_modules
+server-v2.js
+nodemon.json
+public/admin.html
+public/admin.css
+public/admin.js
+scripts
+test
+data/shopee-raw.csv
+Modul_*.pdf
+Modul_*.md

@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Katalog Maternal Disaster Official Shop dengan pencarian produk dan chatbot RAG berbasis data hasil scraping Shopee.">
+  <meta name="theme-color" content="#101010">
+  <title>Maternal Disaster — Katalog Shopee & RAG Chat</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://down-id.img.susercontent.com">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="source-bar">Katalog berbasis data hasil scraping Shopee · Harga dan ketersediaan mengikuti halaman produk asli</div>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Maternal Disaster katalog">
+      <span class="brand-mark">MD</span>
+      <span>Maternal<br>Disaster</span>
+    </a>
+    <nav aria-label="Navigasi utama">
+      <a href="#catalog">Katalog</a>
+      <a href="#about-data">Tentang data</a>
+      <a id="shopNavLink" class="nav-shop" href="https://shopee.co.id/maternaldisasterofficial" target="_blank" rel="noreferrer">Buka Shopee ↗</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="kicker">OFFICIAL SHOP CATALOG / 2026</p>
+        <h1>Find your next<br><em>daily uniform.</em></h1>
+        <p class="hero-lead">Jelajahi koleksi Maternal Disaster dari lapak Shopee resmi. Cari berdasarkan kategori, harga, atau tanya langsung kepada asisten RAG.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="#catalog">Jelajahi katalog</a>
+          <button class="button outline" type="button" data-open-chat>Tanya AI</button>
+        </div>
+        <dl class="hero-stats">
+          <div><dt id="productStat">290</dt><dd>produk</dd></div>
+          <div><dt id="categoryStat">10</dt><dd>kategori</dd></div>
+          <div><dt>Shopee</dt><dd>sumber data</dd></div>
+        </dl>
+      </div>
+      <div id="heroGallery" class="hero-gallery" aria-label="Pilihan produk Maternal Disaster">
+        <div class="hero-tile skeleton"></div>
+        <div class="hero-tile skeleton"></div>
+        <div class="hero-tile skeleton"></div>
+      </div>
+    </section>
+
+    <section id="catalog" class="catalog-section">
+      <div class="section-heading">
+        <div><p class="kicker">SCRAPED PRODUCT INDEX</p><h2>Explore the collection.</h2></div>
+        <p id="resultSummary" aria-live="polite">Memuat katalog…</p>
+      </div>
+
+      <div class="catalog-tools">
+        <label class="search-box">
+          <span aria-hidden="true">⌕</span>
+          <span class="sr-only">Cari produk</span>
+          <input id="searchInput" type="search" placeholder="Cari kaos, jaket, tas…" autocomplete="off">
+        </label>
+        <label class="sort-box">
+          <span class="sr-only">Urutkan produk</span>
+          <select id="sortSelect">
+            <option value="">Urutan katalog</option>
+            <option value="price-asc">Harga terendah</option>
+            <option value="price-desc">Harga tertinggi</option>
+            <option value="rating">Rating tertinggi</option>
+          </select>
+        </label>
+      </div>
+      <div id="categoryFilters" class="category-filters" aria-label="Filter kategori"></div>
+      <div id="productGrid" class="product-grid" aria-live="polite"></div>
+      <div id="emptyState" class="empty-state hidden">
+        <strong>Produk tidak ditemukan.</strong>
+        <p>Coba gunakan kata kunci yang lebih singkat atau pilih kategori lain.</p>
+      </div>
+      <button id="loadMoreBtn" class="button load-more hidden" type="button">Muat produk lainnya</button>
+    </section>
+
+    <section id="about-data" class="data-section">
+      <div class="data-number">290<span>produk</span></div>
+      <div>
+        <p class="kicker">ONE SOURCE, TWO CHANNELS</p>
+        <h2>Data yang sama untuk web dan WhatsApp.</h2>
+        <p>Katalog dinormalisasi dari hasil scraping lapak Maternal Disaster Official Shop. Chatbot website dan gateway WhatsApp mengambil konteks dari sumber produk yang sama, sehingga nama serta harga yang dijawab dapat dilacak kembali ke Shopee.</p>
+        <a id="shopDataLink" class="text-link" href="https://shopee.co.id/maternaldisasterofficial" target="_blank" rel="noreferrer">Verifikasi di lapak Shopee ↗</a>
+      </div>
+      <div class="data-points">
+        <div><span>01</span><strong>Retrieval</strong><p>Produk paling relevan dipilih dari nama, kategori, harga, rating, dan highlight.</p></div>
+        <div><span>02</span><strong>Grounded answer</strong><p>AI dibatasi hanya menjawab berdasarkan konteks katalog yang ditemukan.</p></div>
+        <div><span>03</span><strong>Source link</strong><p>Setiap kartu mengarah ke halaman produk Shopee untuk verifikasi akhir.</p></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="brand footer-brand"><span class="brand-mark">MD</span><span>Maternal<br>Disaster</span></div>
+    <p>Website tugas praktikum RAG · Data produk milik lapak sumber masing-masing.</p>
+    <a href="/admin.html">Console WhatsApp</a>
+  </footer>
+
+  <button class="chat-launcher" type="button" data-open-chat aria-label="Buka chatbot">
+    <span>✦</span><span>Tanya katalog</span>
+  </button>
+  <aside id="chatPanel" class="chat-panel" aria-hidden="true" aria-label="Chatbot katalog">
+    <header>
+      <div><span class="chat-status"></span><div><strong>MD Catalog Assistant</strong><small>RAG · 290 produk Shopee</small></div></div>
+      <button id="closeChatBtn" type="button" aria-label="Tutup chatbot">×</button>
+    </header>
+    <div id="chatMessages" class="chat-messages" aria-live="polite">
+      <div class="message bot">Halo! Saya dapat membantu mencari produk. Coba tanya “ada jaket di bawah 700 ribu?”</div>
+    </div>
+    <div class="quick-prompts">
+      <button type="button">Kaos termurah</button>
+      <button type="button">Rekomendasi jaket</button>
+      <button type="button">Tas rating terbaik</button>
+    </div>
+    <form id="chatForm" class="chat-form">
+      <label><span class="sr-only">Tulis pesan</span><input id="chatInput" maxlength="500" placeholder="Tanyakan produk…" autocomplete="off"></label>
+      <button type="submit" aria-label="Kirim pesan">↑</button>
+    </form>
+    <small class="chat-disclaimer">Jawaban berdasarkan data hasil scraping. Cek Shopee untuk informasi terbaru.</small>
+  </aside>
+
+  <script src="app.js"></script>
+</body>
+</html>
