@@ -2,9 +2,10 @@ const fs = require("node:fs");
 const path = require("node:path");
 const express = require("express");
 const qrcode = require("qrcode-terminal");
-const { Client, LocalAuth } = require("whatsapp-web.js");
+const { Client } = require("whatsapp-web.js");
 const config = require("./lib/config");
 const ChatbotService = require("./lib/chatbot");
+const ResilientLocalAuth = require("./lib/resilient-local-auth");
 const registerApi = require("./lib/register-api");
 
 const app = express();
@@ -21,38 +22,16 @@ let botNumber = null;
 app.use(express.json({ limit: "20kb" }));
 app.use(express.static(path.join(__dirname, "public")));
 
-function latestCachedWebVersion() {
-  const cacheDir = path.join(__dirname, ".wwebjs_cache");
-  try {
-    const cached = fs.readdirSync(cacheDir)
-      .filter((name) => /^\d+(?:\.\d+)+\.html$/.test(name))
-      .map((name) => ({
-        name,
-        modified: fs.statSync(path.join(cacheDir, name)).mtimeMs
-      }))
-      .sort((a, b) => b.modified - a.modified)[0];
-    return cached ? { version: cached.name.replace(/\.html$/, ""), cacheDir } : null;
-  } catch {
-    return null;
-  }
-}
-
 function createClient() {
-  const cachedWeb = latestCachedWebVersion();
-  if (cachedWeb) console.log(`[WA] Menggunakan cache WhatsApp Web ${cachedWeb.version}`);
+  console.log("[WA] Memuat WhatsApp Web terbaru tanpa cache HTML.");
   const wa = new Client({
-    authStrategy: new LocalAuth({ clientId: config.whatsapp.clientId, rmMaxRetries: 10 }),
-    authTimeoutMs: 120000,
+    authStrategy: new ResilientLocalAuth({ clientId: config.whatsapp.clientId, rmMaxRetries: 10 }),
+    authTimeoutMs: config.whatsapp.authTimeoutMs,
     userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-    ...(cachedWeb
-      ? {
-          webVersion: cachedWeb.version,
-          webVersionCache: { type: "local", path: cachedWeb.cacheDir, strict: true }
-        }
-      : { webVersionCache: { type: "none" } }),
+    webVersionCache: { type: "none" },
     puppeteer: {
       headless: config.whatsapp.headless,
-      args: ["--no-sandbox", "--disable-setuid-sandbox"]
+      args: ["--no-sandbox", "--disable-setuid-sandbox", "--disable-dev-shm-usage"]
     }
   });
 
